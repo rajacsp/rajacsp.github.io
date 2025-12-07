@@ -92,7 +92,7 @@ Neha Rani
 
 - [Future-Proofing Your Career: The Role of Fundamentals in the AI Era - Google Slides](https://docs.google.com/presentation/d/1kQ-tq-X61yFkPOvh8exTiU7OVapdav9XIOfmJ445ob0/edit?usp=sharing)
 
-[#ai #artificialintelligence #amritauniversity #swagatham2025 #futureofwork #industryacademia \| Deepak Sood](https://www.linkedin.com/posts/deepaksood619_ai-artificialintelligence-amritauniversity-activity-7365115770546163712-L4PQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAh8m-QBlVNXzETVf_L6BwCJR0kZzlb4FfE)
+[#ai #artificialintelligence #amritauniversity #swagatham2025 #futureofwork #industryacademia \| Deepak Sood](https://www.linkedin.com/posts/rajacsp_ai-artificialintelligence-amritauniversity-activity-7365115770546163712-L4PQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAh8m-QBlVNXzETVf_L6BwCJR0kZzlb4FfE)
 
 ## Techie Talks Podcast - Architecting Data at Scale (2 August 2025)
 
@@ -108,7 +108,7 @@ Neha Rani
 
 ![techie talks podcast](../media/Pasted%20image%2020250926215431.png)
 
-[How AI is Transforming Data Engineering \| Expert Advice \| Deepak Sood](https://www.linkedin.com/posts/deepaksood619_how-ai-is-transforming-data-engineering-activity-7378050605954748416-h7GH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAh8m-QBlVNXzETVf_L6BwCJR0kZzlb4FfE)
+[How AI is Transforming Data Engineering \| Expert Advice \| Deepak Sood](https://www.linkedin.com/posts/rajacsp_how-ai-is-transforming-data-engineering-activity-7378050605954748416-h7GH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAh8m-QBlVNXzETVf_L6BwCJR0kZzlb4FfE)
 
 [See Deepak Sood’s activity on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7377383216686678016/)
 
@@ -171,7 +171,7 @@ The SRE Gameday is an interactive, hands-on event designed to simulate real-worl
 
 [Demo Architecture \| OpenTelemetry](https://opentelemetry.io/docs/demo/architecture/)
 
-[#sre #observability #incidentresponse #opentelemetry #devops… \| Deepak Sood](https://www.linkedin.com/posts/deepaksood619_sre-observability-incidentresponse-activity-7333534956566007809-jNOF)
+[#sre #observability #incidentresponse #opentelemetry #devops… \| Deepak Sood](https://www.linkedin.com/posts/rajacsp_sre-observability-incidentresponse-activity-7333534956566007809-jNOF)
 
 ## Build With AI - TFUG, Opstree Noida (3 May 2025)
 
@@ -187,13 +187,13 @@ Slides - [Automating the Future:  Build Powerful AI Agents](https://bit.ly/3EzPj
 
 [Commudle - Connect & Learn With Software Developers](https://www.commudle.com/communities/tensorflow-user-group-ghaziabad/events/build-with-ai-noida-editon)
 
-[#buildwithai #aiagents #futureofwork #aianddevops #datasolutions #opstree… \| Deepak Sood](https://www.linkedin.com/posts/deepaksood619_buildwithai-aiagents-automation-activity-7321903149244366848-liLY)
+[#buildwithai #aiagents #futureofwork #aianddevops #datasolutions #opstree… \| Deepak Sood](https://www.linkedin.com/posts/rajacsp_buildwithai-aiagents-automation-activity-7321903149244366848-liLY)
 
 [#buildwithai #opstreesolutions #tfugghaziabad #aicommunity… \| OpsTree Solutions](https://www.linkedin.com/posts/opstree-solutions_buildwithai-opstreesolutions-tfugghaziabad-activity-7323590959227666432-Te5h)
 
 [#buildwithai #2daystogo #aievent #tfugghaziabad #genai #developercommunity… \| TensorFlow User Group Ghaziabad (TFUG Ghaziabad)](https://www.linkedin.com/posts/tensorflow-user-group-ghaziabad_buildwithai-2daystogo-aievent-activity-7323713888686931970-8CIS)
 
-[#buildwithai #aiagents #tensorflow #tfugghaziabad #genai #devops… \| Deepak Sood](https://www.linkedin.com/posts/deepaksood619_buildwithai-aiagents-tensorflow-activity-7327376985511383040-yO3p)
+[#buildwithai #aiagents #tensorflow #tfugghaziabad #genai #devops… \| Deepak Sood](https://www.linkedin.com/posts/rajacsp_buildwithai-aiagents-tensorflow-activity-7327376985511383040-yO3p)
 
 ## UDAAN 2K25 - Kotlin User Group Gurugram (22 March 2025)
 
@@ -208,7 +208,7 @@ Presentations
 
 [#udaan2025 #artificialintelligence #aiagents #machinelearning #datascience… \| Kotlin User Group Gurugram](https://www.linkedin.com/posts/kotlin-user-group-gurugram_udaan2025-artificialintelligence-aiagents-activity-7308835914326163456-Aiat)
 
-[#udaan2k25 #ai #automation #genai #artificialintelligence #aiagents… \| Deepak Sood](https://www.linkedin.com/posts/deepaksood619_udaan2k25-ai-automation-activity-7309635596958711808-jPQv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAh8m-QBlVNXzETVf_L6BwCJR0kZzlb4FfE)
+[#udaan2k25 #ai #automation #genai #artificialintelligence #aiagents… \| Deepak Sood](https://www.linkedin.com/posts/rajacsp_udaan2k25-ai-automation-activity-7309635596958711808-jPQv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAh8m-QBlVNXzETVf_L6BwCJR0kZzlb4FfE)
 
 ## ClickHouse Meetup (22 March 2025)
 
@@ -236,9 +236,9 @@ Nights Season 1 is an exciting event where people from all fields come together 
 
 [#nightss1 #inspirationunlocked #communityevent \| Builder's Space](https://www.linkedin.com/posts/builder-s-space_nightss1-inspirationunlocked-communityevent-activity-7307836085890363392-hFpq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAh8m-QBlVNXzETVf_L6BwCJR0kZzlb4FfE)
 
-[#ai #aiagents #automation #cognitiveai #generativeai #futuretech \| Deepak Sood](https://www.linkedin.com/posts/deepaksood619_nightss1-inspirationunlocked-communityevent-activity-7307848100251910144-QGSC)
+[#ai #aiagents #automation #cognitiveai #generativeai #futuretech \| Deepak Sood](https://www.linkedin.com/posts/rajacsp_nightss1-inspirationunlocked-communityevent-activity-7307848100251910144-QGSC)
 
-[#nightss1 #nightss1 #inspirationunlocked #communityevent #aiagents #genai… \| Deepak Sood](https://www.linkedin.com/posts/deepaksood619_nightss1-nightss1-inspirationunlocked-activity-7314656775662706689-CCvG)
+[#nightss1 #nightss1 #inspirationunlocked #communityevent #aiagents #genai… \| Deepak Sood](https://www.linkedin.com/posts/rajacsp_nightss1-nightss1-inspirationunlocked-activity-7314656775662706689-CCvG)
 
 ## Fareportal - Unlocking AI Meetup (8 March 2025)
 
@@ -266,7 +266,7 @@ Presentation - [Fareportal - Automating the Future: Build Powerful AI Agents - G
 
 - Presenters: Pranjal Kalbag (ML Engineer) & Vipin Siriah (Manager, Data Science) from Fareportal
 
-[Deepak Sood on LinkedIn: #genai #aiagents #aiinnovation #beyondchatbots #unlockingai #techmeetup…](https://www.linkedin.com/posts/deepaksood619_genai-aiagents-aiforbusiness-activity-7303111555112386560-GzIs/)
+[Deepak Sood on LinkedIn: #genai #aiagents #aiinnovation #beyondchatbots #unlockingai #techmeetup…](https://www.linkedin.com/posts/rajacsp_genai-aiagents-aiforbusiness-activity-7303111555112386560-GzIs/)
 
 ## Build apps for Google Chat with Gemini (7 March 2025)
 
@@ -311,9 +311,9 @@ In this codelab, you build three Google Chat apps with Gemini to cover the three
 - How to integrate Google Chat apps with Dialogflow CX agents.
 - How to use the latest features of Google Chat: app home, Google Chat Events, and accessory widgets.
 
-[#buildwithai #tfug #nitra #googlegemini #ai #gcp #techevent \| Deepak Sood](https://www.linkedin.com/posts/deepaksood619_buildwithai-tfug-nitra-activity-7304271897502855168-EG6A)
+[#buildwithai #tfug #nitra #googlegemini #ai #gcp #techevent \| Deepak Sood](https://www.linkedin.com/posts/rajacsp_buildwithai-tfug-nitra-activity-7304271897502855168-EG6A)
 
-[Deepak Sood on LinkedIn: #buildwithai #tensorflowug #ai #googlegemini #ghaziabad #techevent](https://www.linkedin.com/posts/deepaksood619_buildwithai-tensorflowug-ai-activity-7303412204479881217-vSYQ)
+[Deepak Sood on LinkedIn: #buildwithai #tensorflowug #ai #googlegemini #ghaziabad #techevent](https://www.linkedin.com/posts/rajacsp_buildwithai-tensorflowug-ai-activity-7303412204479881217-vSYQ)
 
 [Build apps for Google Chat with Gemini  \|  Google Codelabs](https://codelabs.developers.google.com/codelabs/chat-apps-gemini?hl=en#0)
 
@@ -329,15 +329,15 @@ In this codelab, you build three Google Chat apps with Gemini to cover the three
 
 [Hackathon Hackhound](ai/hackathon-hackhound.md)
 
-[Deepak Sood on LinkedIn: #hackhound #hackathon #techinnovation #ai #devops #dataengineering…](https://www.linkedin.com/posts/deepaksood619_hackhound-hackathon-techinnovation-activity-7301904510199742464-LMjz)
+[Deepak Sood on LinkedIn: #hackhound #hackathon #techinnovation #ai #devops #dataengineering…](https://www.linkedin.com/posts/rajacsp_hackhound-hackathon-techinnovation-activity-7301904510199742464-LMjz)
 
-[Deepak Sood on LinkedIn: #hackhound #techmentor #ai #devops #dataengineering #innovation…](https://www.linkedin.com/posts/deepaksood619_hackhound-techmentor-innovation-activity-7300587865443377152-NsFa?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAh8m-QBlVNXzETVf_L6BwCJR0kZzlb4FfE)
+[Deepak Sood on LinkedIn: #hackhound #techmentor #ai #devops #dataengineering #innovation…](https://www.linkedin.com/posts/rajacsp_hackhound-techmentor-innovation-activity-7300587865443377152-NsFa?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAh8m-QBlVNXzETVf_L6BwCJR0kZzlb4FfE)
 
 [HackHound on LinkedIn: #hackhound3 #hackathon #innovationinaction](https://www.linkedin.com/posts/hackhound_hackhound3-hackathon-innovationinaction-activity-7300473629589352448-c57n?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAh8m-QBlVNXzETVf_L6BwCJR0kZzlb4FfE)
 
 ## Kafka Fundamentals - Max HealthCare (19 Feb 2024)
 
-Presentation - [Kafka Fundamentals](https://deepaksood619.github.io/slides-kafka-fundamentals/)
+Presentation - [Kafka Fundamentals](https://rajacsp.github.io/slides-kafka-fundamentals/)
 
 ![Kafka Fundamentals](../media/Screenshot%202025-02-20%20at%206.04.18%20PM.jpg)
 
@@ -399,11 +399,11 @@ Automating the Future: Building Powerful AI Agents
 
 [ChatGPT - ML Weekend Presentation Ideas](https://chatgpt.com/share/679f334e-ed74-8005-9e10-5893e55b715b)
 
-[Deepak Sood on LinkedIn: #ai #machinelearning #vertexai #automation #tfugghaziabad #pydelhi…](https://www.linkedin.com/posts/deepaksood619_newevent-newpost-speaker-activity-7295867621755756544-WJT6?utm_source=share&utm_medium=member_desktop)
+[Deepak Sood on LinkedIn: #ai #machinelearning #vertexai #automation #tfugghaziabad #pydelhi…](https://www.linkedin.com/posts/rajacsp_newevent-newpost-speaker-activity-7295867621755756544-WJT6?utm_source=share&utm_medium=member_desktop)
 
 [PyDelhi on LinkedIn: 🤖 Automating the Future with AI Agents AI is evolving beyond chatbots!…](https://www.linkedin.com/posts/pydelhi-community_automating-the-future-with-ai-agents-activity-7296140007050739712-QYLb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAh8m-QBlVNXzETVf_L6BwCJR0kZzlb4FfE)
 
-[Deepak Sood on LinkedIn: #ai #machinelearning #vertexai #automation #techcommunity #tfugghaziabad…](https://www.linkedin.com/posts/deepaksood619_ai-machinelearning-vertexai-activity-7297187347920474113-SOr4?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAh8m-QBlVNXzETVf_L6BwCJR0kZzlb4FfE)
+[Deepak Sood on LinkedIn: #ai #machinelearning #vertexai #automation #techcommunity #tfugghaziabad…](https://www.linkedin.com/posts/rajacsp_ai-machinelearning-vertexai-activity-7297187347920474113-SOr4?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAh8m-QBlVNXzETVf_L6BwCJR0kZzlb4FfE)
 
 ![ML Saturday](../media/Pasted%20image%2020250213234404.png)
 
@@ -430,9 +430,9 @@ Presentation - [Ethics in GenAI](https://docs.google.com/presentation/d/1R-o8VoK
 
 [MRAC on LinkedIn: #ai #machinelearning #ethicsinai #generativeai #manavrachna #aimlclub…](https://www.linkedin.com/posts/mrac-mri_ai-machinelearning-ethicsinai-activity-7288152581913165826-Ax8j?utm_source=share&utm_medium=member_desktop)
 
-[Deepak Sood on LinkedIn: #ethicalai #generativeai #aiforgood #machinelearning #aimlclub #airesearch…](https://www.linkedin.com/posts/deepaksood619_ai-machinelearning-ethicsinai-activity-7288180380531073024-xwOY?utm_source=share&utm_medium=member_desktop)
+[Deepak Sood on LinkedIn: #ethicalai #generativeai #aiforgood #machinelearning #aimlclub #airesearch…](https://www.linkedin.com/posts/rajacsp_ai-machinelearning-ethicsinai-activity-7288180380531073024-xwOY?utm_source=share&utm_medium=member_desktop)
 
-[Deepak Sood on LinkedIn: #ethicalai #generativeai #aiforgood #innovationwithintegrity #futureofai…](https://www.linkedin.com/posts/deepaksood619_ethicalai-generativeai-aiforgood-activity-7289683456475758593-yKl6?utm_source=share&utm_medium=member_desktop)
+[Deepak Sood on LinkedIn: #ethicalai #generativeai #aiforgood #innovationwithintegrity #futureofai…](https://www.linkedin.com/posts/rajacsp_ethicalai-generativeai-aiforgood-activity-7289683456475758593-yKl6?utm_source=share&utm_medium=member_desktop)
 
 ## Kong in Action: Simplifying API Management for Modern Applications - CNCG (18 January 2024)
 
@@ -455,11 +455,11 @@ Presentation - [Kong in Action](https://docs.google.com/presentation/d/1nVVmLVwA
 
 [See API Kong-Versations:Gateway to 2025 at CNCF New Delhi](https://community.cncf.io/events/details/cncf-new-delhi-presents-api-kong-versationsgateway-to-2025/)
 
-[Deepak Sood on LinkedIn: #meetup #apimanagement #kongapi #techcommunity #apigateway #devops…](https://www.linkedin.com/posts/deepaksood619_meetup-apimanagement-kongapi-activity-7284961469870317568-vay_?utm_source=share&utm_medium=member_desktop)
+[Deepak Sood on LinkedIn: #meetup #apimanagement #kongapi #techcommunity #apigateway #devops…](https://www.linkedin.com/posts/rajacsp_meetup-apimanagement-kongapi-activity-7284961469870317568-vay_?utm_source=share&utm_medium=member_desktop)
 
-[Deepak Sood on LinkedIn: #apimanagement #konginaction #techcommunity](https://www.linkedin.com/posts/deepaksood619_cncgnewdelhi-apikongversations-kong-activity-7285976509545070593--IJR?utm_source=share&utm_medium=member_desktop)
+[Deepak Sood on LinkedIn: #apimanagement #konginaction #techcommunity](https://www.linkedin.com/posts/rajacsp_cncgnewdelhi-apikongversations-kong-activity-7285976509545070593--IJR?utm_source=share&utm_medium=member_desktop)
 
-[Deepak Sood on LinkedIn: #apimanagement #kongapi #microservices #techtalks #knowledgesharing…](https://www.linkedin.com/posts/deepaksood619_apimanagement-kongapi-microservices-activity-7286813576332288000-YuzR?utm_source=share&utm_medium=member_desktop)
+[Deepak Sood on LinkedIn: #apimanagement #kongapi #microservices #techtalks #knowledgesharing…](https://www.linkedin.com/posts/rajacsp_apimanagement-kongapi-microservices-activity-7286813576332288000-YuzR?utm_source=share&utm_medium=member_desktop)
 
 [CNCG New Delhi on LinkedIn: 𝗪𝗲 𝗖𝗮𝗺𝗲, 𝗪𝗲 𝗞𝗼𝗻𝗴-𝘃𝗲𝗿𝘁𝗲𝗱 𝘁𝗵𝗲 𝗰𝗿𝗼𝘄𝗱 At CNCG New…](https://www.linkedin.com/posts/cncgnd_%F0%9D%97%AA%F0%9D%97%B2-%F0%9D%97%96%F0%9D%97%AE%F0%9D%97%BA%F0%9D%97%B2-%F0%9D%97%AA%F0%9D%97%B2-%F0%9D%97%9E%F0%9D%97%BC%F0%9D%97%BB%F0%9D%97%B4-%F0%9D%98%83%F0%9D%97%B2%F0%9D%97%BF%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%B1-ugcPost-7287826100376809472-HIZC?utm_source=share&utm_medium=member_desktop)
 
@@ -483,7 +483,7 @@ Perfect for developers, architects, and data engineers looking to master real-ti
 - Transcript - [Podcast - Stream Processing using Kafka and Flink](about-deepak-sood/projects/43-podcast-stream-processing-using-kafka-and-flink.md)
 - Raw Recording - [Raw Recording - Podcast - Stream Processing using Kafka and Flink](https://drive.google.com/file/d/1FLiWYSlUP3oHc954fuVVYxAmQKv35pZz/view?usp=drive_link)
 - [Buildpiper - By Opstree on LinkedIn: #codeanddeploy #buildwithbuildpiper #kafka #flink #datastreaming #podcast…](https://www.linkedin.com/feed/update/urn:li:activity:7295336849651224576/)
-- [Deepak Sood on LinkedIn: #codeanddeploy #buildwithbuildpiper #kafka #flink #datastreaming #podcast…](https://www.linkedin.com/posts/deepaksood619_codeanddeploy-buildwithbuildpiper-kafka-activity-7296591681624121344-m_Zc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAh8m-QBlVNXzETVf_L6BwCJR0kZzlb4FfE)
+- [Deepak Sood on LinkedIn: #codeanddeploy #buildwithbuildpiper #kafka #flink #datastreaming #podcast…](https://www.linkedin.com/posts/rajacsp_codeanddeploy-buildwithbuildpiper-kafka-activity-7296591681624121344-m_Zc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAh8m-QBlVNXzETVf_L6BwCJR0kZzlb4FfE)
 
 ## Kong in Action: Simplifying API Management for Modern Applications - Kong (14 December 2024)
 
@@ -525,7 +525,7 @@ Deepak Sood is a Senior AI, Data, and DevOps Architect with over 8 years of expe
 - Dr. Tapas Kumar - Associate Dean FET & Professor
 - Dr Divyanshu Sinha - Lecturer, Professor
 
-[Deepak Sood on LinkedIn: #techinterviews #careerguidance #placements #mriirs #unsaidtalks](https://www.linkedin.com/posts/deepaksood619_techinterviews-careerguidance-placements-activity-7271245841871306753-QC8H)
+[Deepak Sood on LinkedIn: #techinterviews #careerguidance #placements #mriirs #unsaidtalks](https://www.linkedin.com/posts/rajacsp_techinterviews-careerguidance-placements-activity-7271245841871306753-QC8H)
 
 ![about the mentor](../media/Screenshot%202024-12-06%20at%203.04.44%20PM.jpg)
 
@@ -629,11 +629,11 @@ Deepak Sood is a Senior AI, Data, and DevOps Architect with over 8 years of expe
 
 ![Apache Kafka x Opstree Meetup](../media/Pasted%20image%2020241115024224.jpg)
 
-[Deepak Sood on LinkedIn: #dataengineering #apachekafka #eventstreaming #aws #confluentcloud…](https://www.linkedin.com/posts/deepaksood619_dataengineering-apachekafka-eventstreaming-activity-7266173593120567296-9RHY?utm_source=share&utm_medium=member_desktop)
+[Deepak Sood on LinkedIn: #dataengineering #apachekafka #eventstreaming #aws #confluentcloud…](https://www.linkedin.com/posts/rajacsp_dataengineering-apachekafka-eventstreaming-activity-7266173593120567296-9RHY?utm_source=share&utm_medium=member_desktop)
 
 [Deepak Sood on LinkedIn: #datastreaming #realtimedata #opstreemeetup #devops #community…](https://www.linkedin.com/feed/update/urn:li:share:7262934586911793153/)
 
-[Deepak Sood on LinkedIn: #dataengineering #apachekafka #confluentcloud #realtimedata…](https://www.linkedin.com/posts/deepaksood619_theres-still-time-to-join-us-in-november-activity-7264225882469208064-xl9V)
+[Deepak Sood on LinkedIn: #dataengineering #apachekafka #confluentcloud #realtimedata…](https://www.linkedin.com/posts/rajacsp_theres-still-time-to-join-us-in-november-activity-7264225882469208064-xl9V)
 
 [Buildpiper - By Opstree on LinkedIn: Apache Kafka x OpsTree](https://www.linkedin.com/posts/buildpiper_apache-kafka-x-opstree-activity-7265250832239992832-p2NJ?utm_source=share&utm_medium=member_desktop)
 
@@ -653,7 +653,7 @@ Proportion of students - 1st year + 2nd year (70%), 3rd + 4th year (30%)
 
 ![NIT Delhi - GenAI for Freshers](../media/1726397196299.jpg)
 
-[Deepak Sood on LinkedIn: #genai #techforfreshers #aiinnovation #careermoves #nitdelhi](https://www.linkedin.com/posts/deepaksood619_genai-aiinnovation-nitdelhi-activity-7241120393694994433-jsdz?utm_source=share&utm_medium=member_desktop)
+[Deepak Sood on LinkedIn: #genai #techforfreshers #aiinnovation #careermoves #nitdelhi](https://www.linkedin.com/posts/rajacsp_genai-aiinnovation-nitdelhi-activity-7241120393694994433-jsdz?utm_source=share&utm_medium=member_desktop)
 
 ## OpsTree Tech Talk (12 September 2024 & 19 September 2024)
 
@@ -677,7 +677,7 @@ Get ready to go from **zero to GenAI hero**!
 
 [UnsaidTalks on LinkedIn: #unsaidtalks #mentorshipprogram #techcareers #careerguidance…](https://www.linkedin.com/posts/unsaidtalks_unsaidtalks-mentorshipprogram-techcareers-activity-7232001433175216129-Eff-?utm_source=share&utm_medium=member_desktop)
 
-[Deepak Sood on LinkedIn: #mentorship #techcareers #generativeai #dataengineering…](https://www.linkedin.com/posts/deepaksood619_unsaidtalks-mentorshipprogram-techcareers-activity-7239180561490026496-VlRf?utm_source=share&utm_medium=member_desktop)
+[Deepak Sood on LinkedIn: #mentorship #techcareers #generativeai #dataengineering…](https://www.linkedin.com/posts/rajacsp_unsaidtalks-mentorshipprogram-techcareers-activity-7239180561490026496-VlRf?utm_source=share&utm_medium=member_desktop)
 
 [High-Level Overview of CS Domains](https://docs.google.com/spreadsheets/d/1Ojy0rC60r5FrBOpmwkwXdL_F8lKUieDpWu_SGWE-rx8/edit?usp=sharing)
 
@@ -693,9 +693,9 @@ Slides - [From Zero to Hero: Mastering GenAI in a Flash](https://docs.google.com
 
 ![From Zero to Hero: Mastering GenAI in a Flash](../media/Pasted%20image%2020240831144403.jpg)
 
-[Deepak Sood on LinkedIn: #genai #aiworkshop #futuretalent #innovation #hackathon #srmist…](https://www.linkedin.com/posts/deepaksood619_genai-aiworkshop-futuretalent-activity-7237536731544051712-QH0m)
+[Deepak Sood on LinkedIn: #genai #aiworkshop #futuretalent #innovation #hackathon #srmist…](https://www.linkedin.com/posts/rajacsp_genai-aiworkshop-futuretalent-activity-7237536731544051712-QH0m)
 
-[Deepak Sood on LinkedIn: Looking forward to presenting the GenAI Hands-on Workshop 'From Zero to…](https://www.linkedin.com/posts/deepaksood619_genai-aiworkshop-hackathon-activity-7235575066032226304-Uz8q?utm_source=share&utm_medium=member_desktop)
+[Deepak Sood on LinkedIn: Looking forward to presenting the GenAI Hands-on Workshop 'From Zero to…](https://www.linkedin.com/posts/rajacsp_genai-aiworkshop-hackathon-activity-7235575066032226304-Uz8q?utm_source=share&utm_medium=member_desktop)
 
 ## Unsaid Talks - Coding Ninjas, Chitkara University (24 August 2024)
 
@@ -723,11 +723,11 @@ Date - Sun, 25 Aug, 2024
 
 [Unleash your inner innovator: GenAI for freshers | UnsaidTalks X CN-CUIET](https://nas.io/unsaidtalks/events/genai-cn-cuit)
 
-Post - [Deepak Sood on LinkedIn: I’m excited to be presenting in the upcoming webinar on 'Getting Started…](https://www.linkedin.com/posts/deepaksood619_webinar-genai-artificialintelligence-activity-7231675608508841984-ZRo-?utm_source=share&utm_medium=member_desktop)
+Post - [Deepak Sood on LinkedIn: I’m excited to be presenting in the upcoming webinar on 'Getting Started…](https://www.linkedin.com/posts/rajacsp_webinar-genai-artificialintelligence-activity-7231675608508841984-ZRo-?utm_source=share&utm_medium=member_desktop)
 
 Post - [Coding Ninjas CUIET on LinkedIn: Step into the future now—ignite your imagination with the limitless… | 10 comments](https://www.linkedin.com/posts/codingninjas-cuiet_step-into-the-future-nowignite-your-imagination-activity-7231187956198207488-NrVS?utm_source=share&utm_medium=member_desktop)
 
-Post - [Deepak Sood on LinkedIn: #genai #rag #artificialintelligence #datascience #aiinnovation…](https://www.linkedin.com/posts/deepaksood619_genai-rag-artificialintelligence-activity-7234379881134862336-xMfH?utm_source=share&utm_medium=member_desktop)
+Post - [Deepak Sood on LinkedIn: #genai #rag #artificialintelligence #datascience #aiinnovation…](https://www.linkedin.com/posts/rajacsp_genai-rag-artificialintelligence-activity-7234379881134862336-xMfH?utm_source=share&utm_medium=member_desktop)
 
 ![Unleash your inner innovator: GenAI for Freshers](../media/Pasted%20image%2020240817010531.jpg)
 
@@ -753,7 +753,7 @@ Location - Manav Rachna International Institute Of Research And Studies, Researc
 
 Presentation - [Introduction to GenAI](https://docs.google.com/presentation/d/10WUAGO62mXRem3CoK-fI2V9fOIFy__TbbD05fzVcs_w/edit?usp=sharing)
 
-Post - [Deepak Sood on LinkedIn: #genai #rag #artificialintelligence #datascience #aiinnovation…](https://www.linkedin.com/posts/deepaksood619_genai-rag-artificialintelligence-activity-7230291496627789825-T9hR)
+Post - [Deepak Sood on LinkedIn: #genai #rag #artificialintelligence #datascience #aiinnovation…](https://www.linkedin.com/posts/rajacsp_genai-rag-artificialintelligence-activity-7230291496627789825-T9hR)
 
 ![Expert Speak - Empowering Gen AI with RAG](../media/WhatsApp%20Image%202024-08-10%20at%2016.09.32.jpg)
 
@@ -797,11 +797,11 @@ https://www.slideshare.net/deepaksood566/computer-science-career-guidance
 - [TechSangam - **Tech4Hack**](https://www.commudle.com/communities/tech4hack/events/techsangam)
 - [Nights Season 1!](https://www.commudle.com/communities/builders-space/events/the-nights-s1)
 - [Udaan 2K25](https://www.commudle.com/communities/gurugram-kotlin-user-group/events/udaan-2025)
-- [GenAI Hackathon | Deepak Sood](https://www.linkedin.com/posts/deepaksood619_hackathon-teamwork-innovation-activity-7309996694044086272-E4Vf?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAh8m-QBlVNXzETVf_L6BwCJR0kZzlb4FfE)
-- [OpsTree Festivista 2025](https://www.linkedin.com/posts/deepaksood619_opstree-festivista2025-workhardplayhard-activity-7311022896640888832-iBBk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAh8m-QBlVNXzETVf_L6BwCJR0kZzlb4FfE)
-- [Build with AI - Gurugram Edition](https://www.linkedin.com/posts/deepaksood619_buildwithai-tfugghaziabad-google-activity-7318766782658355200-9Juk)
+- [GenAI Hackathon | Deepak Sood](https://www.linkedin.com/posts/rajacsp_hackathon-teamwork-innovation-activity-7309996694044086272-E4Vf?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAh8m-QBlVNXzETVf_L6BwCJR0kZzlb4FfE)
+- [OpsTree Festivista 2025](https://www.linkedin.com/posts/rajacsp_opstree-festivista2025-workhardplayhard-activity-7311022896640888832-iBBk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAh8m-QBlVNXzETVf_L6BwCJR0kZzlb4FfE)
+- [Build with AI - Gurugram Edition](https://www.linkedin.com/posts/rajacsp_buildwithai-tfugghaziabad-google-activity-7318766782658355200-9Juk)
 - [Opstree - Data Engineering + AI Session](https://www.linkedin.com/posts/ashishrao-opstree_opstree-dataengineering-aitools-ugcPost-7334542303933435905-71xk)
-- [#genai #claudeai #mcp #sequentialthinking #knowledgegraph #aireflection… \| Deepak Sood](https://www.linkedin.com/posts/deepaksood619_genai-claudeai-mcp-activity-7334543721771782144-DKO4)
+- [#genai #claudeai #mcp #sequentialthinking #knowledgegraph #aireflection… \| Deepak Sood](https://www.linkedin.com/posts/rajacsp_genai-claudeai-mcp-activity-7334543721771782144-DKO4)
 - [#geminicodeassist #google #opstree #strategicpartnership #aiinengineering #softwareengineering #aidriven #codingassistants #enterpriseai #digitaltransformation #engineeringexcellence #apac… \| Deepak Sood](https://www.linkedin.com/feed/update/urn:li:ugcPost:7372474478548881408/)
 
 ## Finding Meetups

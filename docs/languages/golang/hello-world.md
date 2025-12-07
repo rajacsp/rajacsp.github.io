@@ -27,7 +27,7 @@ go run hello.go
 
 ## Commands
 
-go mod init github.io/deepaksood619/pcbook
+go mod init github.io/rajacsp/pcbook
 
 go test ./... # run all test in all packages
 

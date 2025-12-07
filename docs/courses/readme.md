@@ -34,7 +34,7 @@
 2. Coursera - Machine Learning by Andrew Ng (June'16)
 3. [Git Branching](https://learngitbranching.js.org) (Nov'17)
 4. [Git Game v1 & v2](https://www.git-game.com) (Nov'17)
-5. [FreeCodeCamp](https://www.freecodecamp.org/deepaksood619) (Dec'17 - Jan'21)
+5. [FreeCodeCamp](https://www.freecodecamp.org/rajacsp) (Dec'17 - Jan'21)
 6. [Touch Typing | TypingClub](knowledge/games/touch-typing.md) - https://www.typingclub.com (Dec'17 - Jan'20)
 7. [Coursera - Algorithms, Part - 1 by Princeton University](courses/coursera-algorithms-part-1.md) (25 Dec'17 - 26 Jan'18)
 8. [Coursera - Algorithms, Part - 2 by Princeton University](courses/coursera-algorithms-part-2.md) (14 Feb'18 - 02 Apr'18 - 22 Apr'18)
@@ -83,7 +83,7 @@
 
 [Certificate of Completion - Career Essentials in Generative AI by Microsoft and LinkedIn Learning](https://www.linkedin.com/learning/certificates/db9064448d1bb57cf458424d6af5bb635f7b23091c06c40780e25a24825b1dc5?trk=share_certificate)
 
-[Deepak Sood on LinkedIn: Certificate of Completion](https://www.linkedin.com/posts/deepaksood619_certificate-of-completion-activity-7281051167688663041-xD9_)
+[Deepak Sood on LinkedIn: Certificate of Completion](https://www.linkedin.com/posts/rajacsp_certificate-of-completion-activity-7281051167688663041-xD9_)
 
 [Career Essentials in Generative AI by Microsoft and LinkedIn Learning Path | LinkedIn Learning, formerly Lynda.com](https://www.linkedin.com/learning/paths/career-essentials-in-generative-ai-by-microsoft-and-linkedin)
 
@@ -123,7 +123,7 @@
 - Advanced Microsoft Excel
 - Advanced Statistical Methods
 
-[GitHub - deepaksood619/365-Data-Science: 365 Data Science Courses](https://github.com/deepaksood619/365-Data-Science)
+[GitHub - rajacsp/365-Data-Science: 365 Data Science Courses](https://github.com/rajacsp/365-Data-Science)
 
 ### Coursera (Jun 2018 - Oct 2018)
 

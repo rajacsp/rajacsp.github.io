@@ -22,7 +22,7 @@ WORKDIR /app
 
 # COPY . /app/
 
-# RUN git remote set-url origin https://github.com/deepaksood619/wiki.git
+# RUN git remote set-url origin https://github.com/rajacsp/wiki.git
 
 # RUN cd .layouts && npm i
 

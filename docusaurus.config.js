@@ -13,15 +13,15 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://deepaksood619.github.io',
+  url: 'https://rajacsp.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'deepaksood619', // Usually your GitHub org/user name.
-  projectName: 'deepaksood619.github.io', // Usually your repo name.
+  organizationName: 'rajacsp', // Usually your GitHub org/user name.
+  projectName: 'rajacsp.github.io', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'throw',
@@ -77,7 +77,7 @@ const config = {
           showLastUpdateTime: true,
           exclude: ['**/office/**'],
           editUrl:
-            'https://github.com/deepaksood619/deepaksood619.github.io/tree/master/',
+            'https://github.com/rajacsp/rajacsp.github.io/tree/master/',
         },
         blog: false,
         theme: {
@@ -113,12 +113,12 @@ const config = {
         },
         items: [
           {
-            href: 'https://github.com/deepaksood619',
+            href: 'https://github.com/rajacsp',
             label: 'GitHub',
             position: 'right',
           },
           {
-            href: 'https://www.linkedin.com/in/deepaksood619/',
+            href: 'https://www.linkedin.com/in/rajacsp/',
             label: 'LinkedIn',
             position: 'right',
           },
@@ -148,13 +148,13 @@ const config = {
         // Public API key: it is safe to commit it
         apiKey: '55231a2d373a93253025c5b165065e15',
 
-        indexName: 'deepaksood619io.tmp',
+        indexName: 'rajacspio.tmp',
 
         // Optional: see doc section below
         contextualSearch: false,
 
         // Optional: Specify domains where the navigation should occur through window.location instead on history.push. Useful when our Algolia config crawls multiple documentation sites and we want to navigate with window.location.href to them.
-        externalUrlRegex: 'deepaksood619.github.io\\.com|domain\\.com',
+        externalUrlRegex: 'rajacsp.github.io\\.com|domain\\.com',
 
         // Optional: Replace parts of the item URLs from Algolia. Useful when using the same search index for multiple deployments using a different baseUrl. You can use regexp or string in the `from` param. For example: localhost:3000 vs myCompany.com/docs
         replaceSearchResultPathname: {

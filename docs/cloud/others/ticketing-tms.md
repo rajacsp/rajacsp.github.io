@@ -93,7 +93,7 @@ https://www.hubspot.com/knowledge-base
 
 ## tawk.to
 
-- https://tawk.to/deepaksood619
+- https://tawk.to/rajacsp
 - https://goldenpi.com
 - https://developer.tawk.to/jsapi
 - https://help.tawk.to/article/how-to-use-messaging-and-ticketing

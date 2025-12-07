@@ -60,9 +60,9 @@ https://www.freecodecamp.org/news/how-to-create-an-email-newsletter-design-layou
 
 Give tech talk - Learning + Note taking + Zettlekasten - Obsidian / Onenote + Docusaurus
 
-1. [Deep Notes | Deep Notes](https://deepaksood619.github.io/)
-2. [Note Taking / Second Brain / PKM / Zettelkasten / Digital Garden | Deep Notes](https://deepaksood619.github.io/psychology/learning/note-taking-second-brain-pkm-zettelkasten)
-3. [Course - Learning How to Learn | Deep Notes](https://deepaksood619.github.io/psychology/learning/course-learning-how-to-learn)
+1. [Deep Notes | Deep Notes](https://rajacsp.github.io/)
+2. [Note Taking / Second Brain / PKM / Zettelkasten / Digital Garden | Deep Notes](https://rajacsp.github.io/psychology/learning/note-taking-second-brain-pkm-zettelkasten)
+3. [Course - Learning How to Learn | Deep Notes](https://rajacsp.github.io/psychology/learning/course-learning-how-to-learn)
 
 ## Learning Resources / Bootcamps
 

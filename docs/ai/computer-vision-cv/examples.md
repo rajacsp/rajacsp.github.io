@@ -161,7 +161,7 @@ value `y_pred` gives a probabilistic value, close to 0 means it's 1st class i.e.
 
 ## Links
 
-- [Image Classification using CNN Keras | Kaggle](https://www.kaggle.com/code/deepaksood619/image-classification-using-cnn-keras)
+- [Image Classification using CNN Keras | Kaggle](https://www.kaggle.com/code/rajacsp/image-classification-using-cnn-keras)
 - [Image Classification using CNN Keras | Full implementation - YouTube](https://www.youtube.com/watch?v=J1jhfAw5Uvo)
 - [Cats vs Dogs : Image Classification using CNN(95%) | Kaggle](https://www.kaggle.com/code/sachinpatil1280/cats-vs-dogs-image-classification-using-cnn-95)
 - [AWS Innovate | Intro to Deep Learning: Building an Image Classifier on Amazon SageMaker - YouTube](https://www.youtube.com/watch?v=KCzgR7eQ3PY&ab_channel=AmazonWebServices)

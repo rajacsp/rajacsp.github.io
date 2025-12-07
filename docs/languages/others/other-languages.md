@@ -63,7 +63,7 @@ Dark is a holistic programming language, editor, and infrastructure for building
 
 https://darklang.com
 
-https://darklang.com/a/deepaksood619
+https://darklang.com/a/rajacsp
 
 https://darklang.github.io/docs/docs/getting-started
 

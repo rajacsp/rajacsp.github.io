@@ -158,7 +158,7 @@ https://hub.docker.com/_/hello-world
 - [docker tag](https://docs.docker.com/engine/reference/commandline/tag) tags an image to a name (local or registry).
 
 ```bash
-sudo docker tag monolith:1.0.0 deepaksood619/monolith:1.0.0
+sudo docker tag monolith:1.0.0 rajacsp/monolith:1.0.0
 
 docker tag azure-vote-front gcr.io/example-data-archiver/azure-vote-front:v1
 ```

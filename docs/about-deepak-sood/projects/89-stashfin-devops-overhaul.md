@@ -28,10 +28,10 @@
 ## Keeping all repositories consistent and follow same standards across
 
 - Added Auto formatters and static code analysis
-- [Pre-commit](https://deepaksood619.github.io/python/documentation/27-development-tools/static-code-analysis) for running all hooks before commit locally
+- [Pre-commit](https://rajacsp.github.io/python/documentation/27-development-tools/static-code-analysis) for running all hooks before commit locally
 - Black (opinionated) for Python - auto formatters
 - Keeping code complexity low for slowly reducing the function and file sizes
-- [Code smells](https://deepaksood619.github.io/computer-science/software-engineering/code-smell)
+- [Code smells](https://rajacsp.github.io/computer-science/software-engineering/code-smell)
 
 ![autoformatter-implementation](../../media/Pasted%20image%2020231201182421.jpg)
 

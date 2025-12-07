@@ -44,7 +44,7 @@ Auto ads use Google's smart technology to:
 - Detect any existing Google ads on your page. (Note that we're not able to detect ads from other ad networks.)
 - Automatically place new ads based on different elements such as your page layout, the amount of content on your page, and your existing Google ads. Occasionally, Auto ads might place two ads next to each other (regardless of the ads' network origin).
 
-Ex for adsense - https://deepaksood619.github.io/ads.txt
+Ex for adsense - https://rajacsp.github.io/ads.txt
 
 [Compare Ad Manager, AdSense, and AdMob - Google Ad Manager Help](https://support.google.com/admanager/answer/9234653?hl=en)
 

@@ -30,7 +30,7 @@ https://www.freecodecamp.org/news/learn-all-about-micro-frontends
 
 https://www.youtube.com/watch?v=sfmL6bGbiN8&ab_channel=freeCodeCamp.org
 
-https://github.com/deepaksood619/react-shopping-cart
+https://github.com/rajacsp/react-shopping-cart
 
 ## Advanced - https://www.youtube.com/watch?v=m_u6P5k0vP0
 

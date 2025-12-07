@@ -40,7 +40,7 @@ mongo -u root -p example
 # mongodb shell
 brew install mongosh
 
-mongosh "mongodb+srv://cluster0.xxx.mongodb.net/" --apiVersion 1 --username deepaksood619
+mongosh "mongodb+srv://cluster0.xxx.mongodb.net/" --apiVersion 1 --username rajacsp
 ```
 
 ```bash

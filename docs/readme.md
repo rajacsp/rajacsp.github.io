@@ -84,9 +84,9 @@ loc
 
 This garden is quite literally my digital brain. It includes my thoughts, notes and links on topics I care about.
 
-I update the notes daily in my [github repo](https://github.com/deepaksood619/deepaksood619.github.io/), and build it few times in a month using Github Actions and Docusaurus.
+I update the notes daily in my [github repo](https://github.com/rajacsp/rajacsp.github.io/), and build it few times in a month using Github Actions and Docusaurus.
 
-The content being [markdown](languages/others/markdown) files, which after every commit to the builds the website using Docusaurus and publishes it to [deepaksood619.github.io](https://deepaksood619.github.io/) from which you are likely reading this page.
+The content being [markdown](languages/others/markdown) files, which after every commit to the builds the website using Docusaurus and publishes it to [rajacsp.github.io](https://rajacsp.github.io/) from which you are likely reading this page.
 
 The way I structure each page often looks the same and follows a structure. The sidebar you see on the left is sorted alphabetically. It's nested too. Many top level folders are nested quite deep.
 
@@ -117,12 +117,12 @@ Eth: Ethereum MainNet - 0xC629700c063c9848c2D09e79248d39b997fAD48E
 
 BTC: bc1qfpm3x5qcr6su8ndq8afmw6u5hzdwpyauwkdcdf
 
-Paypal - [Deepak Sood | deepaksood619](https://paypal.me/deepaksood619?country.x=IN&locale.x=en_GB)
+Paypal - [Deepak Sood | rajacsp](https://paypal.me/rajacsp?country.x=IN&locale.x=en_GB)
 
-Buy me a coffee - [Deepak Sood | deepaksood619](https://www.buymeacoffee.com/deepaksood619)
+Buy me a coffee - [Deepak Sood | rajacsp](https://www.buymeacoffee.com/rajacsp)
 
-Github Sponsers - [Deepak Sood | deepaksood619](https://github.com/sponsors/deepaksood619)
+Github Sponsers - [Deepak Sood | rajacsp](https://github.com/sponsors/rajacsp)
 
 ## Contact
 
-[Deepak Sood | LinkedIn](https://www.linkedin.com/in/deepaksood619/)
+[Deepak Sood | LinkedIn](https://www.linkedin.com/in/rajacsp/)

@@ -27,7 +27,7 @@
 - https://developers.google.com/speed/pagespeed/insights
 - https://sitechecker.pro
 - https://seositecheckup.com/seo-audit/www.example.com
-- https://www.seoptimer.com/deepaksood619.github.io
+- https://www.seoptimer.com/rajacsp.github.io
 - https://app.neilpatel.com/en/seo_analyzer/site_audit
 - https://answerthepublic.com
 - https://stories.google

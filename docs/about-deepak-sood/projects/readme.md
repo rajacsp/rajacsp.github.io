@@ -95,29 +95,29 @@
 ## Personal Projects
 
 - [Interview - Datainsight Alerting Engine](about-deepak-sood/projects/70-interview-datainsight-alerting-engine.md) (Nov'2023)
-- [GitHub - deepaksood619/react-shopping-cart](https://github.com/deepaksood619/react-shopping-cart) (May'21)
-- [GitHub - deepaksood619/FCC-Weather-App: FreeCodeCamp Weather Application Project](https://github.com/deepaksood619/FCC-Weather-App)  [FCC-Weather-App](https://codepen.io/deepaksood619/full/rpyRbZ) (Jan'18)
-- [GitHub - deepaksood619/FCC-Algorithm-Scripting: A Collection of JS Algorithm Scripting Challenges @FreeCodeCamp](https://github.com/deepaksood619/FCC-Algorithm-Scripting) (Dec'17 - Dec'21)
-- [CodePen - Bubble Blast using AnimeJS](https://codepen.io/deepaksood619/full/Mrbdaj) (Dec'17)
-- [GitHub - deepaksood619/FCC-Random-Quote-Machine: A site that gives Random Quotes, an FreeCodeCamp project](https://github.com/deepaksood619/FCC-Random-Quote-Machine) [CodePen - FCC-RandomQuoteMachine](https://codepen.io/deepaksood619/full/KZNmBm) (Dec'17)
-- [GitHub - deepaksood619/FCC-Tribute-Linus-Torvalds: A basic HTML and bootstrap site for FreeCodeCamp Tribute Project](https://github.com/deepaksood619/FCC-Tribute-Linus-Torvalds) [FCC-Tribute Page for Linus Torvalds](https://codepen.io/deepaksood619/full/aEdojd) (Dec'17)
-- [GitHub - deepaksood619/RegexCrossword: Solution to RegexCrossword Puzzles](https://github.com/deepaksood619/RegexCrossword/tree/master) (Oct'17 - Nov'17)
+- [GitHub - rajacsp/react-shopping-cart](https://github.com/rajacsp/react-shopping-cart) (May'21)
+- [GitHub - rajacsp/FCC-Weather-App: FreeCodeCamp Weather Application Project](https://github.com/rajacsp/FCC-Weather-App)  [FCC-Weather-App](https://codepen.io/rajacsp/full/rpyRbZ) (Jan'18)
+- [GitHub - rajacsp/FCC-Algorithm-Scripting: A Collection of JS Algorithm Scripting Challenges @FreeCodeCamp](https://github.com/rajacsp/FCC-Algorithm-Scripting) (Dec'17 - Dec'21)
+- [CodePen - Bubble Blast using AnimeJS](https://codepen.io/rajacsp/full/Mrbdaj) (Dec'17)
+- [GitHub - rajacsp/FCC-Random-Quote-Machine: A site that gives Random Quotes, an FreeCodeCamp project](https://github.com/rajacsp/FCC-Random-Quote-Machine) [CodePen - FCC-RandomQuoteMachine](https://codepen.io/rajacsp/full/KZNmBm) (Dec'17)
+- [GitHub - rajacsp/FCC-Tribute-Linus-Torvalds: A basic HTML and bootstrap site for FreeCodeCamp Tribute Project](https://github.com/rajacsp/FCC-Tribute-Linus-Torvalds) [FCC-Tribute Page for Linus Torvalds](https://codepen.io/rajacsp/full/aEdojd) (Dec'17)
+- [GitHub - rajacsp/RegexCrossword: Solution to RegexCrossword Puzzles](https://github.com/rajacsp/RegexCrossword/tree/master) (Oct'17 - Nov'17)
     - Profile - https://regexcrossword.com/players/38485
     - Stats - https://regexcrossword.com/stats
-- [GitHub - deepaksood619/JavaScriptTicTacToe: JavaScript TicTacToe using MiniMax Algorithm](https://github.com/deepaksood619/JavaScriptTicTacToe) [JS Tic Tac Toe - MiniMax](https://codepen.io/deepaksood619/full/VymOjG) (Oct'17)
-- [GitHub - deepaksood619/python-challenge: Solution to python challenge](https://github.com/deepaksood619/python-challenge) (Aug'17 - Dec'21)
+- [GitHub - rajacsp/JavaScriptTicTacToe: JavaScript TicTacToe using MiniMax Algorithm](https://github.com/rajacsp/JavaScriptTicTacToe) [JS Tic Tac Toe - MiniMax](https://codepen.io/rajacsp/full/VymOjG) (Oct'17)
+- [GitHub - rajacsp/python-challenge: Solution to python challenge](https://github.com/rajacsp/python-challenge) (Aug'17 - Dec'21)
     - Solving Python Challenge that includes a lot of hard problem solving puzzles.
-- [Deepak Kumar Sood - Deepak Sood](https://deepaksood619-e5c24.web.app/) [GitHub - deepaksood619/website-old: My Old Portfolio Website - https://deepaksood619-e5c24.web.app/](https://github.com/deepaksood619/website-old) (Aug'17 - Aug'21)
+- [Deepak Kumar Sood - Deepak Sood](https://rajacsp-e5c24.web.app/) [GitHub - rajacsp/website-old: My Old Portfolio Website - https://rajacsp-e5c24.web.app/](https://github.com/rajacsp/website-old) (Aug'17 - Aug'21)
     - Created using Jekyll and hosted in GitHub Pages. Used minimal mistakes as my theme, used liquid templating language to write modifications and additions to build a blogging website
-- [GitHub - deepaksood619/MyWebsite: My Website from scratch.](https://github.com/deepaksood619/MyWebsite) (Apr'17)
-- [GitHub - deepaksood619/Competitive-Programming: https://www.hackerrank.com/deepaksood619, http://practice.geeksforgeeks.org/user-profile.php?user=Deepak%20Sood](https://github.com/deepaksood619/Competitive-Programming) (July'17 - Present)
+- [GitHub - rajacsp/MyWebsite: My Website from scratch.](https://github.com/rajacsp/MyWebsite) (Apr'17)
+- [GitHub - rajacsp/Competitive-Programming: https://www.hackerrank.com/rajacsp, http://practice.geeksforgeeks.org/user-profile.php?user=Deepak%20Sood](https://github.com/rajacsp/Competitive-Programming) (July'17 - Present)
     - My repository where I maintain all the competitive programming questions that I have solved. It's a collection of problems from various sites like HackerRank, GeeksForGeeks, HackerEarth, CodeChef, LeetCode, and basic algorithms and data structure questions
 - [Others](about-deepak-sood/projects/98-others.md)
 
 ### Kaggle Notebooks
 
-- [Kaggle: Detecting Plant Diseases | Pytorch](https://www.kaggle.com/code/deepaksood619/detecting-plant-diseases-pytorch)
-- [Kaggle: Your Home for Data Science](https://www.kaggle.com/code/deepaksood619/image-classification-using-cnn-keras/)
+- [Kaggle: Detecting Plant Diseases | Pytorch](https://www.kaggle.com/code/rajacsp/detecting-plant-diseases-pytorch)
+- [Kaggle: Your Home for Data Science](https://www.kaggle.com/code/rajacsp/image-classification-using-cnn-keras/)
 
 ## College Projects
 
@@ -182,7 +182,7 @@ https://github.com/deepak15013/OOPD_Project
 
 An android application that fetches data from TheMovieDB api and show data to users using grid layout in cardview, optimized for tablet view using fragments in master-detail flow. Users can sort movies using different filters. Watch trailer, see detailed information, trailers and reviews of the selected movie. Information can be saved offline in favourites by the user. Libraries used - Volley, Picasso, ButterKnife.
 
-https://github.com/deepaksood619/PopMov
+https://github.com/rajacsp/PopMov
 
 ### Rudimentary File System of Unix Environment. Guide: Dr. Sambuddho Chakravarty, (Jan'16 - May, 16) Team Size-1
 

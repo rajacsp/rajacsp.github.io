@@ -186,7 +186,7 @@ https://www.confluent.io/blog/apache-kafka-2-4-latest-version-updates
 
 ## Kafka Presentations
 
-- [Kafka Fundamentals](https://deepaksood619.github.io/slides-kafka-fundamentals/)
+- [Kafka Fundamentals](https://rajacsp.github.io/slides-kafka-fundamentals/)
 - [Introduction to Apache Kafka \| PPT](https://www.slideshare.net/slideshow/introduction-to-apache-kafka-239053578/239053578)
 - [Fundamentals for Apache Kafka](https://www.anuragkapur.com/assets/blog/engineering/apache-kafka/slidesapachekafkaarchitecturefundamentalsexplained1579807020653.pdf)
 	- [Apache Kafka Architecture & Fundamentals Explained \| PPT](https://www.slideshare.net/slideshow/apache-kafka-architecture-fundamentals-explained/184949786)

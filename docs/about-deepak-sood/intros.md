@@ -27,7 +27,7 @@ Deepak Sood is a seasoned Data and AI Architect with over a decade of experience
 
 Deepak Sood is a highly skilled technical professional with over a decade of experience in data engineering, distributed systems, and infrastructure architecture. He has demonstrated exceptional ability in scaling systems and implementing cutting-edge technologies including Kafka, Kubernetes, Elasticsearch, and microservices architectures. His experience spans FinTech, EdTech, IoT, and Media industries, where he has successfully collaborated with cross-functional teams to deliver impactful solutions.
 
-An M.Tech graduate from IIIT Delhi, Deepak excels at translating complex technical concepts into actionable insights. He possesses a growth mindset and is passionate about continuous learning, dedicating time to exploring diverse technical domains through blogs and hands-on experimentation. Outside work, he maintains an extensive personal knowledge base and enjoys mentoring others, sharing expertise through his comprehensive technical wiki at deepaksood619.github.io.
+An M.Tech graduate from IIIT Delhi, Deepak excels at translating complex technical concepts into actionable insights. He possesses a growth mindset and is passionate about continuous learning, dedicating time to exploring diverse technical domains through blogs and hands-on experimentation. Outside work, he maintains an extensive personal knowledge base and enjoys mentoring others, sharing expertise through his comprehensive technical wiki at rajacsp.github.io.
 
 ## Intro 1 - Education
 

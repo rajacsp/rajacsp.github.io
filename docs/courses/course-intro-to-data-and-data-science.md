@@ -4,7 +4,7 @@ https://365datascience.com
 
 https://365datascience.teachable.com/courses/enrolled/361452
 
-https://github.com/deepaksood619/Data-Modeling
+https://github.com/rajacsp/Data-Modeling
 
 - Data
 - Data team

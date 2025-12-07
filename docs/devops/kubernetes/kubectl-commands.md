@@ -159,7 +159,7 @@ Run a particular image on the cluster
 
 ```bash
 kubectl run hello-nginx --image=nginx --port=80
-kubectl run -t -i kub-log --image=deepaksood619/kubernetes_logger:latest
+kubectl run -t -i kub-log --image=rajacsp/kubernetes_logger:latest
 ```
 
 ### set

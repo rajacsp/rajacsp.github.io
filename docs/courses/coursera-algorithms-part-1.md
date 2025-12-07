@@ -4,7 +4,7 @@ https://www.coursera.org/learn/algorithms-part1
 
 Final Grade - 97.8%
 
-https://github.com/deepaksood619/Coursera-Algorithms-Part-1
+https://github.com/rajacsp/Coursera-Algorithms-Part-1
 
 ## Syllabus
 

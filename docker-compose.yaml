@@ -8,7 +8,7 @@ services:
             context: .
             dockerfile: Dockerfile
         restart: always
-        image: deepaksood619/wiki:latest
+        image: rajacsp/wiki:latest
         container_name: wiki
         environment:
             - DEBUG=True
@@ -20,8 +20,8 @@ services:
             - -c
             - |
                 sleep infinity
-                # git clone https://github.com/deepaksood619/deepaksood619.github.io.git
-                # cd deepaksood619.github.io/.layouts
+                # git clone https://github.com/rajacsp/rajacsp.github.io.git
+                # cd rajacsp.github.io/.layouts
                 # npm i
                 # npm start
                 # npm run start --host 0.0.0.0  # not working
@@ -29,18 +29,18 @@ services:
                 # cd ..
                 # git checkout -b gh-pages
                 # git add .layouts/public -f
-                # git config --global user.email "deepaksood619@gmail.com"
+                # git config --global user.email "rajacsp@gmail.com"
                 # git commit -m "added gh-pages"
                 # git push origin `git subtree split --prefix .layouts/public gh-pages`:gh-pages --force
-                # git push https://deepaksood619:xxx@github.com/deepaksood619/deepaksood619.github.io.git `git subtree split --prefix .layouts/public gh-pages`:gh-pages --force
+                # git push https://rajacsp:xxx@github.com/rajacsp/rajacsp.github.io.git `git subtree split --prefix .layouts/public gh-pages`:gh-pages --force
 
                 # git add .layouts/public -f
                 # git branch gh-pages
                 # git subtree split --prefix '.layouts/public' -b gh-pages
-                # git push -f https://deepaksood619:xxx@github.com/deepaksood619/deepaksood619.github.io.git gh-pages:gh-pages
+                # git push -f https://rajacsp:xxx@github.com/rajacsp/rajacsp.github.io.git gh-pages:gh-pages
 
                 # git subtree push --prefix .layouts/public origin gh-pages
-                # git subtree push --prefix .layouts/public https://deepaksood619:xxx@github.com/deepaksood619/deepaksood619.github.io.git gh-pages
+                # git subtree push --prefix .layouts/public https://rajacsp:xxx@github.com/rajacsp/rajacsp.github.io.git gh-pages
 
                 # running docusaurus locally
                 # npm ci

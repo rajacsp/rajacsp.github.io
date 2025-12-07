@@ -61,7 +61,7 @@ echo "✅ All repositories cloned to $DEST_DIR"
 ## Git add origin
 
 ```bash
-git remote add origin https://github.com/deepaksood619/DjangoDemoApplication.git
+git remote add origin https://github.com/rajacsp/DjangoDemoApplication.git
 git push -u origin master
 git remote set-url origin git@gitlab.com:example-datascience/decision-engine.git (change remote repository origin)
 git remote rm destination
@@ -73,7 +73,7 @@ git push -u origin --all (for pushing old repo to new place)
 ```bash
 git config --global user.name (seeing the current set username globally)
 git config user.email (seeing the set username for current project)
-git config --global user.name "deepaksood619" (set username globally)
+git config --global user.name "rajacsp" (set username globally)
 git config --global core.editor "vim" (Change git editor)
 ```
 

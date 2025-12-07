@@ -26,4 +26,4 @@
 - [Strmizi](strimzi)
 - [WarpStream](technologies/kafka/warpstream.md)
 
-[Slides - Kafka Fundamentals](https://deepaksood619.github.io/slides-kafka-fundamentals/)
+[Slides - Kafka Fundamentals](https://rajacsp.github.io/slides-kafka-fundamentals/)

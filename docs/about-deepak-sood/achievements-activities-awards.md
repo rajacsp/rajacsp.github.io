@@ -20,7 +20,7 @@ I was responsible of creating a product and infrastructure around it to help sav
 ### Regex Crossword (Oct'17 - Nov'17)
 
 - Regular Expressions Game
-- https://github.com/deepaksood619/RegexCrossword/blob/master/README
+- https://github.com/rajacsp/RegexCrossword/blob/master/README
 - Profile - https://regexcrossword.com/players/38485
 - Stats - https://regexcrossword.com/stats
 

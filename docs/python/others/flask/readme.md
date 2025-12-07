@@ -41,7 +41,7 @@ https://stackoverflow.com/questions/10434599/get-the-data-received-in-a-flask-re
 
 ## Examples
 
-https://gist.github.com/deepaksood619/99e790959f5eba6ba0815e056a8067d7
+https://gist.github.com/rajacsp/99e790959f5eba6ba0815e056a8067d7
 
 ```python
  import logging

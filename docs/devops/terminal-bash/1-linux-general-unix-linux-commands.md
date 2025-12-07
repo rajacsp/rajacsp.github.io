@@ -48,13 +48,13 @@ ssh-agent
 ssh-import-id
 
 # SSH KeyGen
-ssh-keygen -t rsa -b 4096 -C "deepaksood619@gmail.com"
+ssh-keygen -t rsa -b 4096 -C "rajacsp@gmail.com"
 
 ssh-keygen -t rsa -b 4096 -C "deepak.sood@dealshare.in"
 
 ssh-keygen -R energy.abc.com # reset the saved key of server
 
-ssh-keygen -t ecdsa -b 521 -C "deepaksood619@gmail.com"
+ssh-keygen -t ecdsa -b 521 -C "rajacsp@gmail.com"
 
 ssh config (man ssh_config - OpenSSH SSH client configuration files)
   Add all the details for a server ssh to ~/.ssh/config file
@@ -77,7 +77,7 @@ ssh config (man ssh_config - OpenSSH SSH client configuration files)
 ### Having different ssh keys for different github accounts
 
 ```bash
-ssh-keygen -t ecdsa -b 521 -C "deepaksood619@gmail.com"
+ssh-keygen -t ecdsa -b 521 -C "rajacsp@gmail.com"
 
 ssh-keygen -t rsa -b 4096 -C "personal_email@example.com" -f ~/.ssh/id_rsa_personal
 

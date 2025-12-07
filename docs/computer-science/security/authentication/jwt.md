@@ -93,7 +93,7 @@ https://jwt.io/introduction
 
 https://medium.com/@rahulgolwalkar/pros-and-cons-in-using-jwt-json-web-tokens-196ac6d41fb4
 
-https://gist.github.com/deepaksood619/4cc5656a42158927ca6006a1ec7d5eea
+https://gist.github.com/rajacsp/4cc5656a42158927ca6006a1ec7d5eea
 
 https://www.pingidentity.com/en/company/blog/posts/2019/jwt-security-nobody-talks-about.html
 

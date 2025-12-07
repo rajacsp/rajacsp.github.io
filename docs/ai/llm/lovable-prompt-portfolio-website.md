@@ -7,7 +7,7 @@ https://lovable.dev/invite/3GWZN70
 Build a modern, responsive **frontend-only portfolio website*- using**React*- (or any Lovable-supported frontend framework). **No backend services*- (e.g., Supabase, Firebase, APIs) should be integrated — the site must work fully offline using**static demo data + localStorage*- with clearly documented hooks for future backend integration.
 
 **Owner:*- *Deepak Sood*
-**LinkedIn:*- [https://www.linkedin.com/in/deepaksood619/](https://www.linkedin.com/in/deepaksood619/)
+**LinkedIn:*- [https://www.linkedin.com/in/rajacsp/](https://www.linkedin.com/in/rajacsp/)
 
 Use publicly available profile information to write placeholder content (short bio, role/title, experience bullets, achievements). Do not fetch real-time data or integrate LinkedIn APIs — write **sample content that the owner can later edit.**
 

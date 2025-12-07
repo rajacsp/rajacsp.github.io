@@ -2,7 +2,7 @@
 
 https://www.coursera.org/learn/algorithms-part2
 
-https://github.com/deepaksood619/Coursera-Algorithms-Part-2
+https://github.com/rajacsp/Coursera-Algorithms-Part-2
 
 ## Week - 1
 

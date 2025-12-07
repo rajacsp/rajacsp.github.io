@@ -80,7 +80,7 @@ https://www.freecodecamp.org/news/monorepo-essentials
 - https://github.com/git-game/git-game
 - https://github.com/git-game/git-game-v2
 - https://github.com/Gazler/githug
-- https://github.com/deepaksood619/GitGames
+- https://github.com/rajacsp/GitGames
 
 ## .gitignore
 

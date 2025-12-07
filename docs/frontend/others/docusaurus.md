@@ -114,7 +114,7 @@ algolia: {
     // Public API key: it is safe to commit it
     apiKey: '55231a2d373a93253025c5b165065e15',
 
-    indexName: 'deepaksood619io',
+    indexName: 'rajacspio',
 
     // Optional: see doc section below
     contextualSearch: true,

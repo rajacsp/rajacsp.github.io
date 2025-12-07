@@ -108,7 +108,7 @@ https://teachable.com
 
 https://github.com/git-game/git-game
 
-https://github.com/deepaksood619/GitGames
+https://github.com/rajacsp/GitGames
 
 ## Assessments
 
