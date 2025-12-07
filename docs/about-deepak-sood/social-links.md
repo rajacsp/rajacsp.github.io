@@ -1,29 +1,29 @@
 # Social Links
 
-[Schedule a call with me - Deepak Sood | Calendly](https://calendly.com/rajacsp/deepak)
+[Schedule a call with me - Deepak Sood | Calendly](https://calendly.com/rajacsp/csp)
 
 ## Resume
 
 - Full - https://docs.google.com/document/d/1g9yh9FJuJO_mCgJUXUxcWN9dw0GTFwS1N6DssRlqVHE/edit
-    - https://bit.ly/deepak_full
+    - https://bit.ly/raja_full
 - Targeted - https://docs.google.com/document/d/1l4Mfb7gLDC6RGwhvHzdn9Am7bEzz4SyjavZnGJ01Sz0/edit
-    - https://bit.ly/deepak_sood_resume
+    - https://bit.ly/raja_csp_resume
 
 ## Websites
 
 - https://rajacsp.github.io
-    - http://bit.ly/deepaksite
+    - http://bit.ly/cspsite
     - https://bit.ly/deepnotes
     - https://dub.sh/deepnotes
 - https://resume.github.io/?rajacsp
-- [Experienced Software and Product Development Professional](https://deepaksood.framer.ai/)
-- https://projectshowcase.me/deepaksood
+- [Experienced Software and Product Development Professional](https://rajacsp.framer.ai/)
+- https://projectshowcase.me/rajacsp
 - [Portfolio Website](https://rajacsp-e5c24.web.app)
-- [https://sites.google.com/view/deepak-sood](https://sites.google.com/view/deepak-sood)
-- LinkTree - https://linktr.ee/deepaksood
-- itsmy.fyi - [Deepak Kumar Sood](https://itsmy.fyi/me/deepak)
+- [https://sites.google.com/view/raja-csp](https://sites.google.com/view/raja-csp)
+- LinkTree - https://linktr.ee/rajacsp
+- itsmy.fyi - [Deepak Kumar Sood](https://itsmy.fyi/me/csp)
     - Issue Link - [itsmy.fyi - Deepak · Issue #109 · rishi-raj-jain/itsmy.fyi · GitHub](https://github.com/rishi-raj-jain/itsmy.fyi/issues/109)
-- Bento - [Bento - deepaksood](https://bento.me/deepaksood) [Bento - rajacsp](https://bento.me/rajacsp)
+- Bento - [Bento - rajacsp](https://bento.me/rajacsp) [Bento - rajacsp](https://bento.me/rajacsp)
 - Topmate - https://topmate.io/rajacsp
 - Sessionize Speaker Page - https://sessionize.com/rajacsp
 
@@ -35,7 +35,7 @@
 
 ## Others
 
-- Email - `rajacsp@gmail.com`, `deepak15013@iiitd.ac.in`
+- Email - `rajacsp@gmail.com`, `rajacsp@iiitd.ac.in`
 - Phone - +91 94255 92627
 - Linkedin - https://www.linkedin.com/in/rajacsp
 - Instagram - https://instagram.com/rajacsp/
@@ -45,10 +45,10 @@
 - Skype Username - rajacsp@gmail.com
 - Github Personal - https://github.com/rajacsp
 - Gitlab Personal - [Deepak Sood · GitLab](https://gitlab.com/rajacsp)
-- Github College - https://github.com/deepak15013
+- Github College - https://github.com/rajacsp
 - Codepen - https://codepen.io/rajacsp
 - Project collection list - https://codepen.io/collection/AWRYzb
-- StackOverflow - https://stackoverflow.com/users/5424888/deepak-sood
+- StackOverflow - https://stackoverflow.com/users/5424888/raja-csp
 - Reddit - https://www.reddit.com/user/rajacsp
 - Medium - https://medium.com/@rajacsp
 - KhanAcademy - https://www.khanacademy.org/profile/depaksood619  https://www.khanacademy.org/profile/depaksood619/badges
@@ -68,7 +68,7 @@
     - RataType - http://www.ratatype.com/c519043
     - 10FastFingers - https://10fastfingers.com/user/1090885
 - Regex Crossword - https://regexcrossword.com/players/38485
-- YourStory - https://yourstory.com/people/deepak-sood
+- YourStory - https://yourstory.com/people/raja-csp
 - https://warpcast.com/
 
 ## Email Signature

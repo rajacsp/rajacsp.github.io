@@ -92,8 +92,8 @@ sequenceDiagram
       "args": [
         "-y",
         "@modelcontextprotocol/server-filesystem",
-        "/Users/deepaksood/Desktop",
-        "/Users/deepaksood/Downloads"
+        "/Users/rajacsp/Desktop",
+        "/Users/rajacsp/Downloads"
       ]
     },
     "memory": {

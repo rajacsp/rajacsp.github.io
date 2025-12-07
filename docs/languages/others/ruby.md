@@ -64,7 +64,7 @@ def hi(name)
 puts "Hello #{name}!"
 end
 
-hi("deepak")
+hi("csp")
 
 test.rb |-
 #!/usr/bin/env ruby

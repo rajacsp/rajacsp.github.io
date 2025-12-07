@@ -30,7 +30,7 @@
 
  class NamesTestCase(unittest.TestCase):
      def test_first_last(self):
-         full_name = get_full_name('deepak', 'sood')
+         full_name = get_full_name('csp', 'sood')
          self.assertEqual(full_name, 'Deepak Sood')
 
  # Testing a class is similar to testing a function, since we mostly test our methods

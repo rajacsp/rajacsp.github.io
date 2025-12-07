@@ -443,7 +443,7 @@ certificates.k8s.io/v1beta1 validates network certificates for secure communicat
 Modify kubeconfig files
 
 ```bash
-export KUBECONFIG=/Users/deepaksood/kubeconfig-file.yaml
+export KUBECONFIG=/Users/rajacsp/kubeconfig-file.yaml
 
 kubectl --kubeconfig kubeconfig-file.yaml get pods
 ```
@@ -498,7 +498,7 @@ kubectl get secret --namespace default eager-otter-grafana -o jsonpath="{.data.a
 # Adding Secrets for pulling images from private registry
     https://container-solutions.com/using-google-container-registry-with-kubernetes/
 
-kubectl create secret docker-registry gcr-json-key --docker-server=gcr.io --docker-username=_json_key --docker-password="$(cat ~/json-key-file.json)" --docker-email=deepak.sood@abc.com
+kubectl create secret docker-registry gcr-json-key --docker-server=gcr.io --docker-username=_json_key --docker-password="$(cat ~/json-key-file.json)" --docker-email=raja.csp@abc.com
 
 kubectl patch serviceaccount default -p '{"imagePullSecrets": [{"name": "gcr-json-key"}]}'
 

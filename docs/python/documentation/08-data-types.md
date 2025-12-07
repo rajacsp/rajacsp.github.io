@@ -97,7 +97,7 @@ from collections import OrderedDict
 
 fav_languages = OrderedDict()
 fav_languages['jen'] = ['python', 'ruby']
-fav_languages['deepak'] = ['python']
+fav_languages['csp'] = ['python']
 
 # display the results, in the same order they were entered
 

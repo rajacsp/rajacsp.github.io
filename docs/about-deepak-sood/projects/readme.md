@@ -21,67 +21,67 @@
 
 #### Projects
 
-- [Freecharge - Cost Optimization and Database Administration](about-deepak-sood/projects/56-freecharge-cost-optimization-dba.md)
-- [Careers360 Cost Optimization](about-deepak-sood/projects/57-careers360-cost-optimization.md)
-- [Azure Social Media Analytics](about-deepak-sood/projects/55-azure-social-media-analytics.md)
-- [Airflow and Kafka Migration](about-deepak-sood/projects/54-airflow-kafka-migration.md)
-- [AWS Gen AI Hackathon](about-deepak-sood/projects/58-aws-gen-ai-hackathon-rag.md)
-- [Mozark - Cloud Cost Optimization and Performance Enhancement](about-deepak-sood/projects/53-mozark-cloud-cost-optimization.md)
-- [GenAI ChatBot using Bedrock](about-deepak-sood/projects/37-genai-chatbot-using-bedrock.md)
-- [AWS Hands-on Amazon Q Workshop](about-deepak-sood/projects/35-aws-hands-on-amazon-q-workshop.md)
-- [Ecommerce Scalable Modern Data Stack](about-deepak-sood/projects/32-ecommerce-scalable-modern-data-stack.md)
+- [Freecharge - Cost Optimization and Database Administration](about-raja-csp/projects/56-freecharge-cost-optimization-dba.md)
+- [Careers360 Cost Optimization](about-raja-csp/projects/57-careers360-cost-optimization.md)
+- [Azure Social Media Analytics](about-raja-csp/projects/55-azure-social-media-analytics.md)
+- [Airflow and Kafka Migration](about-raja-csp/projects/54-airflow-kafka-migration.md)
+- [AWS Gen AI Hackathon](about-raja-csp/projects/58-aws-gen-ai-hackathon-rag.md)
+- [Mozark - Cloud Cost Optimization and Performance Enhancement](about-raja-csp/projects/53-mozark-cloud-cost-optimization.md)
+- [GenAI ChatBot using Bedrock](about-raja-csp/projects/37-genai-chatbot-using-bedrock.md)
+- [AWS Hands-on Amazon Q Workshop](about-raja-csp/projects/35-aws-hands-on-amazon-q-workshop.md)
+- [Ecommerce Scalable Modern Data Stack](about-raja-csp/projects/32-ecommerce-scalable-modern-data-stack.md)
 
 #### Account Management / Sales
 
-- [Data Engineering Product Pitch IoT Industry](about-deepak-sood/projects/59-data-engineering-product-pitch-iot-industry.md)
-- [MLOps Master Document](about-deepak-sood/projects/63-mlops-master-document.md)
-- [Problems in IoT Industry](about-deepak-sood/projects/65-problems-in-iot-industry.md)
-- [IoT Case Studies](about-deepak-sood/projects/66-iot-case-studies.md)
-- [Data Engineering - Battle Cards](about-deepak-sood/projects/67-data-engineering-battle-cards.md)
-- [Pull Request Risk Tagging Heuristics](about-deepak-sood/projects/52-pull-request-risk-tagging-heuristics.md)
-- [Use Cases: AIML in Logistics and Warehousing](about-deepak-sood/projects/50-use-cases-aiml-logistics-warehousing.md)
-- [Data Practical Use Cases](about-deepak-sood/projects/49-data-practical-use-cases.md)
-- [RAG Presentation](about-deepak-sood/projects/48-rag-genai-presentation.md)
-- [Opstree Standard Proposal Format](about-deepak-sood/projects/71-opstree-standard-proposal-format.md)
-- [Podcast - Streamlining Cloud Migration Through Data Engineering](about-deepak-sood/projects/46-podcast-streamlining-cloud-migration-through-data-engineering.md)
-- [Podcast - Stream Processing using Kafka and Flink](about-deepak-sood/projects/43-podcast-stream-processing-using-kafka-and-flink.md)
-- [Document Data Extraction](about-deepak-sood/projects/42-document-data-extraction.md)
-- [On-Premise MLOps Platform](about-deepak-sood/projects/40-on-premise-mlops-platform.md)
-- [Cloud Based SAAS Data Platform](about-deepak-sood/projects/41-cloud-based-saas-data-platform.md)
-- [AI Powered Call Quality Monitoring](about-deepak-sood/projects/39-ai-powered-call-quality-monitoring.md)
-- [Data Stack Evaluation & Optimization](about-deepak-sood/projects/38-data-stack-evaluation-optimization.md)
-- [AI ChatBot SAAS](about-deepak-sood/projects/36-ai-chatbot-saas.md)
-- [Techie Talks Podcast - Architecting Data at Scale](about-deepak-sood/projects/31-techie-talks-podcast-architecting-data-at-scale.md)
+- [Data Engineering Product Pitch IoT Industry](about-raja-csp/projects/59-data-engineering-product-pitch-iot-industry.md)
+- [MLOps Master Document](about-raja-csp/projects/63-mlops-master-document.md)
+- [Problems in IoT Industry](about-raja-csp/projects/65-problems-in-iot-industry.md)
+- [IoT Case Studies](about-raja-csp/projects/66-iot-case-studies.md)
+- [Data Engineering - Battle Cards](about-raja-csp/projects/67-data-engineering-battle-cards.md)
+- [Pull Request Risk Tagging Heuristics](about-raja-csp/projects/52-pull-request-risk-tagging-heuristics.md)
+- [Use Cases: AIML in Logistics and Warehousing](about-raja-csp/projects/50-use-cases-aiml-logistics-warehousing.md)
+- [Data Practical Use Cases](about-raja-csp/projects/49-data-practical-use-cases.md)
+- [RAG Presentation](about-raja-csp/projects/48-rag-genai-presentation.md)
+- [Opstree Standard Proposal Format](about-raja-csp/projects/71-opstree-standard-proposal-format.md)
+- [Podcast - Streamlining Cloud Migration Through Data Engineering](about-raja-csp/projects/46-podcast-streamlining-cloud-migration-through-data-engineering.md)
+- [Podcast - Stream Processing using Kafka and Flink](about-raja-csp/projects/43-podcast-stream-processing-using-kafka-and-flink.md)
+- [Document Data Extraction](about-raja-csp/projects/42-document-data-extraction.md)
+- [On-Premise MLOps Platform](about-raja-csp/projects/40-on-premise-mlops-platform.md)
+- [Cloud Based SAAS Data Platform](about-raja-csp/projects/41-cloud-based-saas-data-platform.md)
+- [AI Powered Call Quality Monitoring](about-raja-csp/projects/39-ai-powered-call-quality-monitoring.md)
+- [Data Stack Evaluation & Optimization](about-raja-csp/projects/38-data-stack-evaluation-optimization.md)
+- [AI ChatBot SAAS](about-raja-csp/projects/36-ai-chatbot-saas.md)
+- [Techie Talks Podcast - Architecting Data at Scale](about-raja-csp/projects/31-techie-talks-podcast-architecting-data-at-scale.md)
 
 #### Case Studies
 
-- [Data Engineering Case Studies](about-deepak-sood/projects/60-data-engineering-case-studies.md)
-- [General Application Management Case Study](about-deepak-sood/projects/61-general-application-management-case-study.md)
-- [Application Management Case Study - Telecom](about-deepak-sood/projects/62-application-management-case-study-telecom.md)
-- [MLOps Case Studies](about-deepak-sood/projects/64-mlops-case-studies.md)
-- [Case Study: Anomaly Detection in Metric Data using Isolation Forest](about-deepak-sood/projects/51-case-study-anomaly-detection.md)
-- [GenAI Case Study - Careers360](about-deepak-sood/projects/47-genai-case-study-careers360.md)
-- [Traditional AI Case Studies](about-deepak-sood/projects/45-traditional-ai-case-studies.md)
-- [Agri Tech Digital Transformation Case Study](about-deepak-sood/projects/44-agri-tech-digital-transformation-case-study.md)
-- [Optimizing Real-time User Analytics Using ClickHouse](about-deepak-sood/projects/34-optimizing-real-time-user-analytics-using-clickhouse.md)
-- [Powering Granular Cloud Cost Analytics with ClickHouse](about-deepak-sood/projects/33-powering-granular-cloud-cost-analytics-with-clickhouse.md)
+- [Data Engineering Case Studies](about-raja-csp/projects/60-data-engineering-case-studies.md)
+- [General Application Management Case Study](about-raja-csp/projects/61-general-application-management-case-study.md)
+- [Application Management Case Study - Telecom](about-raja-csp/projects/62-application-management-case-study-telecom.md)
+- [MLOps Case Studies](about-raja-csp/projects/64-mlops-case-studies.md)
+- [Case Study: Anomaly Detection in Metric Data using Isolation Forest](about-raja-csp/projects/51-case-study-anomaly-detection.md)
+- [GenAI Case Study - Careers360](about-raja-csp/projects/47-genai-case-study-careers360.md)
+- [Traditional AI Case Studies](about-raja-csp/projects/45-traditional-ai-case-studies.md)
+- [Agri Tech Digital Transformation Case Study](about-raja-csp/projects/44-agri-tech-digital-transformation-case-study.md)
+- [Optimizing Real-time User Analytics Using ClickHouse](about-raja-csp/projects/34-optimizing-real-time-user-analytics-using-clickhouse.md)
+- [Powering Granular Cloud Cost Analytics with ClickHouse](about-raja-csp/projects/33-powering-granular-cloud-cost-analytics-with-clickhouse.md)
 
 ### Bake.io
 
-[Bake.io Data Engineering](about-deepak-sood/projects/75-bake-io-data-engineering.md) (Mar'23 - Nov'23)
+[Bake.io Data Engineering](about-raja-csp/projects/75-bake-io-data-engineering.md) (Mar'23 - Nov'23)
 
 ### Stashfin
 
-- [Stashfin](about-deepak-sood/projects/80-stashfin.md) (Feb'20 - Feb'23)
-- [Stashfin Terms](about-deepak-sood/projects/81-stashfin-terms.md) (Feb'20 - Feb'23)
-- [Stashfin Metrics](about-deepak-sood/projects/82-stashfin-metrics.md)  (Feb'20 - Feb'23)
-- [Stashfin Customer Support](about-deepak-sood/projects/86-stashfin-customer-support.md) (Nov'22 - Feb'23)
-- [Stashfin Twitter Bot](about-deepak-sood/projects/85-stashfin-twitter-bot.md) (Nov'22 - Feb'23)
-- [Stashfin Team Management / Culture](about-deepak-sood/projects/87-stashfin-team-management-culture.md) (Sep'21 - Feb'23)
-- [Stashfin Security IAM APIs](about-deepak-sood/projects/88-stashfin-security-iam-apis.md) (Feb'20 - Feb'23)
-- [Stashfin Devops Overhaul](about-deepak-sood/projects/89-stashfin-devops-overhaul.md) (Feb'20 - Jan'21)
-- [Stashfin Tech Stack / Infra](about-deepak-sood/projects/90-stashfin-tech-stack-infra.md) (Feb'20 - Feb'23)
-- [Stashfin AIML Use Cases & Implementation](about-deepak-sood/projects/91-stashfin-aiml-use-cases.md) (Feb'20 - Feb'23)
+- [Stashfin](about-raja-csp/projects/80-stashfin.md) (Feb'20 - Feb'23)
+- [Stashfin Terms](about-raja-csp/projects/81-stashfin-terms.md) (Feb'20 - Feb'23)
+- [Stashfin Metrics](about-raja-csp/projects/82-stashfin-metrics.md)  (Feb'20 - Feb'23)
+- [Stashfin Customer Support](about-raja-csp/projects/86-stashfin-customer-support.md) (Nov'22 - Feb'23)
+- [Stashfin Twitter Bot](about-raja-csp/projects/85-stashfin-twitter-bot.md) (Nov'22 - Feb'23)
+- [Stashfin Team Management / Culture](about-raja-csp/projects/87-stashfin-team-management-culture.md) (Sep'21 - Feb'23)
+- [Stashfin Security IAM APIs](about-raja-csp/projects/88-stashfin-security-iam-apis.md) (Feb'20 - Feb'23)
+- [Stashfin Devops Overhaul](about-raja-csp/projects/89-stashfin-devops-overhaul.md) (Feb'20 - Jan'21)
+- [Stashfin Tech Stack / Infra](about-raja-csp/projects/90-stashfin-tech-stack-infra.md) (Feb'20 - Feb'23)
+- [Stashfin AIML Use Cases & Implementation](about-raja-csp/projects/91-stashfin-aiml-use-cases.md) (Feb'20 - Feb'23)
 
 ### Zenatix (Aug'17 - Jan'20)
 
@@ -90,11 +90,11 @@
 
 ### CISO Cybersecurity
 
-[CISO Cybersecurity](about-deepak-sood/projects/99-ciso-cybersecurity.md) (Dec'16 - July'17)
+[CISO Cybersecurity](about-raja-csp/projects/99-ciso-cybersecurity.md) (Dec'16 - July'17)
 
 ## Personal Projects
 
-- [Interview - Datainsight Alerting Engine](about-deepak-sood/projects/70-interview-datainsight-alerting-engine.md) (Nov'2023)
+- [Interview - Datainsight Alerting Engine](about-raja-csp/projects/70-interview-datainsight-alerting-engine.md) (Nov'2023)
 - [GitHub - rajacsp/react-shopping-cart](https://github.com/rajacsp/react-shopping-cart) (May'21)
 - [GitHub - rajacsp/FCC-Weather-App: FreeCodeCamp Weather Application Project](https://github.com/rajacsp/FCC-Weather-App)  [FCC-Weather-App](https://codepen.io/rajacsp/full/rpyRbZ) (Jan'18)
 - [GitHub - rajacsp/FCC-Algorithm-Scripting: A Collection of JS Algorithm Scripting Challenges @FreeCodeCamp](https://github.com/rajacsp/FCC-Algorithm-Scripting) (Dec'17 - Dec'21)
@@ -112,7 +112,7 @@
 - [GitHub - rajacsp/MyWebsite: My Website from scratch.](https://github.com/rajacsp/MyWebsite) (Apr'17)
 - [GitHub - rajacsp/Competitive-Programming: https://www.hackerrank.com/rajacsp, http://practice.geeksforgeeks.org/user-profile.php?user=Deepak%20Sood](https://github.com/rajacsp/Competitive-Programming) (July'17 - Present)
     - My repository where I maintain all the competitive programming questions that I have solved. It's a collection of problems from various sites like HackerRank, GeeksForGeeks, HackerEarth, CodeChef, LeetCode, and basic algorithms and data structure questions
-- [Others](about-deepak-sood/projects/98-others.md)
+- [Others](about-raja-csp/projects/98-others.md)
 
 ### Kaggle Notebooks
 
@@ -123,19 +123,19 @@
 
 ### Sangoshthi: Phase - 2 Deployment, Guide: Dr. Pushpendra Singh, (Apr'17 - July'18)
 
-https://github.com/deepak15013/Sangoshthi-Phase-2
+https://github.com/rajacsp/Sangoshthi-Phase-2
 
 ### VideoCutNTrim: A novice video editing platform. Guide: Dr. Pushpendra Singh, (Jan'17 - Apr'17) Team Size -1
 
 An Android application with a simple user interface for ASHA workers, where they can create and edit stories using audio, image and video. Used ffmpeg for video processing operations like trimming and joining.
 
-https://github.com/deepak15013/VideoCutNTrim
+https://github.com/rajacsp/VideoCutNTrim
 
 ### Building a Distributed System for Collecting Health Data using Mobile Devices. Guide: Dr. Pushpendra Singh, (Aug'16 - Nov'16) Team Size - 1
 
 Used Open Data Kit (ODK) platform for creating, deployment, collection and analysis of large scale data from geographically and culturally distributed people using mobile devices.
 
-https://github.com/deepak15013/CapstoneProject-ODK/blob/master/Capstone_Report_Deepak_Sood.pdf
+https://github.com/rajacsp/CapstoneProject-ODK/blob/master/Capstone_Report_Deepak_Sood.pdf
 
 ### User study framework. Guide: Dr. Pushpendra Singh, (Jun'16 - Oct'16) Team Size - 1
 
@@ -146,7 +146,7 @@ Created an android application framework to collect all the stats and user usabi
 - Dynamic Password Word/Text
 - Dynamic Password Image
 
-https://github.com/deepak15013/UserStudyFramework
+https://github.com/rajacsp/UserStudyFramework
 
 ### Sangoshthi: Empowering Community Health Workers through Peer Learning in Rural India. Guide: Dr. Pushpendra Singh, (Jun'16 - Nov'16) Team Size - 2
 
@@ -154,19 +154,19 @@ As part of a research project, created an Android application that combines Inte
 
 Worked with NewCastle, UK - Radio Health Diagnosis
 
-https://github.com/deepak15013/Sangoshthi
+https://github.com/rajacsp/Sangoshthi
 
 ### BookXchange, An Android Application. Guide: Dr. Pushpendra Singh, (Mar'16 - May'16) Team Size - 3
 
 As part of our end semester project, created a new concept app for adding location stamped books for exchanging it with other users. Users can register via google or facebook api. All the data like name, profile picture is fetched from the api's. Used google play services as map provider and gps for getting location information. Parse used as a cloud database provider and amazon search api used for fetching book details after scanning the book using integrated barcode scanner. All the material design guidelines followed for app design.
 
-https://github.com/deepak15013/PcsmaProject
+https://github.com/rajacsp/PcsmaProject
 
 ### Muster, A Chat Application. Guide: Dr. Pushpendra Singh, (Apr'16 - May'16) Team Size - 3
 
 An Android chat application with features like registration through 2-step verification, friends and contacts list, group chat, broadcast and one to one chat. Used RabbitMQ to pass messages, AWS DynamoDB as backend database and 3rd party API for sms based verification.
 
-https://github.com/deepak15013/PcsmaAssignment4
+https://github.com/rajacsp/PcsmaAssignment4
 
 ### TA Allocation Portal. Guide: Dr. Pushpendra Singh, (Feb'16) Team Size - 3
 
@@ -176,7 +176,7 @@ Using Spring as a build framework, created a TA allocation portal with login and
 
 ConnectBook, as part of Object Oriented Programming & Design final project, is a mini social networking site with all social networking functionalities. Extensive use of Java Design Patterns along with frameworks like spring and bootstrap were used.
 
-https://github.com/deepak15013/OOPD_Project
+https://github.com/rajacsp/OOPD_Project
 
 ### PopMov (Mar'16)
 

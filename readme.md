@@ -40,10 +40,10 @@ loc
 
 ## Outline
 
-- [About me](https://rajacsp.github.io/about-deepak-sood/)
-    - [Experience](https://rajacsp.github.io/about-deepak-sood/experience/)
-    - [Projects](https://rajacsp.github.io/about-deepak-sood/projects/)
-    - [Meetups / Talks / Sessions](https://rajacsp.github.io/about-deepak-sood/meetups-talks-sessions/)
+- [About me](https://rajacsp.github.io/about-raja-csp/)
+    - [Experience](https://rajacsp.github.io/about-raja-csp/experience/)
+    - [Projects](https://rajacsp.github.io/about-raja-csp/projects/)
+    - [Meetups / Talks / Sessions](https://rajacsp.github.io/about-raja-csp/meetups-talks-sessions/)
 - [Computer Science](https://rajacsp.github.io/computer-science/)
     - [AI](https://rajacsp.github.io/ai/)
         - [ML Algorithms](https://rajacsp.github.io/ai/ml-algorithms/)
@@ -103,7 +103,7 @@ There's 2000+ pages in here and lots of them I think are interesting. But these 
 - [Fallacies of Distributed Computing](https://rajacsp.github.io/computer-science/distributed-system/fallacies-and-problems/) and [Biases / Fallacies](https://rajacsp.github.io/psychology/biases-fallacies/) of Human Computing, which everyone should know and try to overcome in their lifetimes
 - [Types of Databases](https://rajacsp.github.io/databases/concepts/types-of-databases/) to organize your data in the right database, since data has gravity, it becomes harder with quantity of data to migrate data over time to other databases
 - List of [YouTube / Podcasts](https://rajacsp.github.io/knowledge/youtube-podcasts-magazine-apps/) that I follow and [YouTube Videos](https://rajacsp.github.io/knowledge/links/) that I have watched. Also [Computer Science YouTube Videos](https://rajacsp.github.io/computer-science/links/) that I have watched since keeping yourself updated with the field is a must.
-- [My Experiences](https://rajacsp.github.io/about-deepak-sood/experience/) over the years, [My Experiences](https://rajacsp.github.io/about-deepak-sood/meetups-talks-sessions/) I presented and [Social links](https://rajacsp.github.io/about-deepak-sood/social-links/) to connect with me
+- [My Experiences](https://rajacsp.github.io/about-raja-csp/experience/) over the years, [My Experiences](https://rajacsp.github.io/about-raja-csp/meetups-talks-sessions/) I presented and [Social links](https://rajacsp.github.io/about-raja-csp/social-links/) to connect with me
 
 ## Donate
 

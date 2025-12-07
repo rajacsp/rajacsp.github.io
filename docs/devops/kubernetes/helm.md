@@ -120,7 +120,7 @@ pull        download a chart from a repository and (optionally) unpack it in loc
 Flags:
       --debug                           enable verbose output
   -h, --help                            help for helm
-      --home string                     location of your Helm config. Overrides $HELM_HOME (default "/Users/deepaksood/.helm")
+      --home string                     location of your Helm config. Overrides $HELM_HOME (default "/Users/rajacsp/.helm")
       --host string                     address of Tiller. Overrides $HELM_HOST
       --kube-context string             name of the kubeconfig context to use
       --kubeconfig string               absolute path to the kubeconfig file to use

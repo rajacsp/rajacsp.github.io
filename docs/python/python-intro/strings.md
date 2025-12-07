@@ -267,7 +267,7 @@ print('{0:x}'.format(15)) #hexadecimal
 #### Passing parameters
 
 ```python
-A = deepak
+A = csp
 B = sood
 "Hello %s %s!" %(A, B) [Should be passed as tuple for more than one arguments)
 ```

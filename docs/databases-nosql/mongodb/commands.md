@@ -101,7 +101,7 @@ show dbs #show databases, only shows database with atleast one document
 db.movie.insert({'name':'End game'}) #automatically creates a collection movie if not present
 db.dropDatabase()
 
-db.createUser({user:"deepak", pwd:"12345", roles:["readWrite", "dbAdmin"]})
+db.createUser({user:"csp", pwd:"12345", roles:["readWrite", "dbAdmin"]})
 
 db.createCollection(name, options)
 show collections

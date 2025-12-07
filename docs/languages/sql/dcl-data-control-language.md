@@ -26,8 +26,8 @@ Now we can log in as the new user and run show tables to see that it only has ac
 
 https://chartio.com/resources/tutorials/mysql-table-level-permissions/
 
-GRANT LOAD FROM S3 ON *.* TO 'deepak_sood'@'%'
-GRANT SELECT,SHOW VIEW,execute ON sttash_website_LIVE.* TO 'deepak_sood'@'%'
+GRANT LOAD FROM S3 ON *.* TO 'raja_csp'@'%'
+GRANT SELECT,SHOW VIEW,execute ON sttash_website_LIVE.* TO 'raja_csp'@'%'
 
 GRANT SELECT,UPDATE,INSERT,SHOW VIEW ON sttash_website_LIVE.st_collection_lead_assign TO 'test'@'%';
 GRANT SELECT ON sttash_website_LIVE.elev8_offer_tmp_clicked TO 'test'@'%';

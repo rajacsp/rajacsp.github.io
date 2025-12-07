@@ -51,8 +51,8 @@ SELECT key_aliases, column_aliases FROM system.schema_columnfamilies WHERE keysp
 TRUNCATE videos;
 
 DROP TABLE videos_by_tag;
-COPY videos(video_id, added_date, title) FROM '/Users/deepaksood/Downloads/ds201-6.0-labwork/labwork/data-files/videos.csv' WITH HEADER=TRUE;
-COPY videos_by_tag (tag, video_id, added_date, title) FROM '/Users/deepaksood/Downloads/ds201-6.0-labwork/labwork/data-files/videos-by-tag.csv' WITH HEADER=TRUE;
+COPY videos(video_id, added_date, title) FROM '/Users/rajacsp/Downloads/ds201-6.0-labwork/labwork/data-files/videos.csv' WITH HEADER=TRUE;
+COPY videos_by_tag (tag, video_id, added_date, title) FROM '/Users/rajacsp/Downloads/ds201-6.0-labwork/labwork/data-files/videos-by-tag.csv' WITH HEADER=TRUE;
 QUIT
 ## DESCRIBE TABLE videos;
 

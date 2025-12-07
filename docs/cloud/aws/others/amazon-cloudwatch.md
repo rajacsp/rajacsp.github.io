@@ -13,7 +13,7 @@ Monitor Resources and Applications
 
 -QUERY -READ -WRITE
 
--server -lms_p2021030122 -sttashrdsmain -vishal_goyal -rdsadmin -deepak_sood -api-v2_p2021030121 -loan-tape-etl_c2021030122
+-server -lms_p2021030122 -sttashrdsmain -vishal_goyal -rdsadmin -raja_csp -api-v2_p2021030121 -loan-tape-etl_c2021030122
 ```
 
 ### Logs Insight

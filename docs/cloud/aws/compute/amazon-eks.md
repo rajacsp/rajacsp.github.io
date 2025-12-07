@@ -55,8 +55,8 @@ kubectl describe configmap -n kube-system aws-auth
 
 mapUsers:
 ----
-- userarn: arn:aws:iam::331916247734:user/deepak.sood@stashfin.com
-    username: deepak.sood
+- userarn: arn:aws:iam::331916247734:user/raja.csp@stashfin.com
+    username: raja.csp
     groups:
     - system:masters
 

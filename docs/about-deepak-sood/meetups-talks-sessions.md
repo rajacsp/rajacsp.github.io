@@ -18,7 +18,7 @@
 
 [#hackathon #students #guidance #unsaidtalks #mentorship #funandlearn #resume #placement #internship #games #competition \| UnsaidTalks Education](https://www.linkedin.com/feed/update/urn:li:activity:7374058225513672706/)
 
-[Excited to collaborate with Deepak Sood - AI Architect @ Opstree for our upcoming Hackathon this Sunday on 21st September. Students will get a chance to win Scholarships upto Rs.30k and certificate… \| Raghav Chopra](https://www.linkedin.com/posts/raghav-chopra_excited-to-collaborate-with-deepak-sood-activity-7374117364046618624-KBAM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAh8m-QBlVNXzETVf_L6BwCJR0kZzlb4FfE)
+[Excited to collaborate with Deepak Sood - AI Architect @ Opstree for our upcoming Hackathon this Sunday on 21st September. Students will get a chance to win Scholarships upto Rs.30k and certificate… \| Raghav Chopra](https://www.linkedin.com/posts/raghav-chopra_excited-to-collaborate-with-raja-csp-activity-7374117364046618624-KBAM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAh8m-QBlVNXzETVf_L6BwCJR0kZzlb4FfE)
 
 [Unstop - Competitions, Quizzes, Hackathons, Scholarships and Internships for Students and Corporates](https://unstop.com/p/genai-powered-solution-build4hire-scholarship-hackathon-unsaidtalks-education-1558498)
 
@@ -114,7 +114,7 @@ Neha Rani
 
 [Embrace AI as Your Co Collaborator #shorts #technology #tech #ai \| Techie Talks with Kuldeep](https://www.linkedin.com/posts/techietalkswithkuldeep_embrace-ai-as-your-co-collaborator-shorts-activity-7377950141342867456-2rdE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAh8m-QBlVNXzETVf_L6BwCJR0kZzlb4FfE)
 
-[Techie Talks Podcast - Architecting Data at Scale](about-deepak-sood/projects/31-techie-talks-podcast-architecting-data-at-scale.md)
+[Techie Talks Podcast - Architecting Data at Scale](about-raja-csp/projects/31-techie-talks-podcast-architecting-data-at-scale.md)
 
 [#tech #podcast #devops #ai #leadership #innovation #saas #founderstories #techtalk #devsecops #dataanalytics #cloudcomputing #interview #technology #opstree #techietalkswithkuldeep #buildpiper \| Techie Talks with Kuldeep](https://www.linkedin.com/feed/update/urn:li:activity:7365982673636372480/)
 
@@ -451,7 +451,7 @@ Whether you’re a developer, architect, or tech enthusiast, this session offers
 
 Presentation - [Kong in Action](https://docs.google.com/presentation/d/1nVVmLVwAhyjERJafOMY-Tl6diNCMDeH6q3TpNdHak3I/edit?usp=sharing)
 
-![API Kong-Versations gateway to 2025](../media/deepak_sood_kong_in_action.jpg)
+![API Kong-Versations gateway to 2025](../media/raja_csp_kong_in_action.jpg)
 
 [See API Kong-Versations:Gateway to 2025 at CNCF New Delhi](https://community.cncf.io/events/details/cncf-new-delhi-presents-api-kong-versationsgateway-to-2025/)
 
@@ -480,7 +480,7 @@ In this session, we’ll explore:
 
 Perfect for developers, architects, and data engineers looking to master real-time data workflows!
 
-- Transcript - [Podcast - Stream Processing using Kafka and Flink](about-deepak-sood/projects/43-podcast-stream-processing-using-kafka-and-flink.md)
+- Transcript - [Podcast - Stream Processing using Kafka and Flink](about-raja-csp/projects/43-podcast-stream-processing-using-kafka-and-flink.md)
 - Raw Recording - [Raw Recording - Podcast - Stream Processing using Kafka and Flink](https://drive.google.com/file/d/1FLiWYSlUP3oHc954fuVVYxAmQKv35pZz/view?usp=drive_link)
 - [Buildpiper - By Opstree on LinkedIn: #codeanddeploy #buildwithbuildpiper #kafka #flink #datastreaming #podcast…](https://www.linkedin.com/feed/update/urn:li:activity:7295336849651224576/)
 - [Deepak Sood on LinkedIn: #codeanddeploy #buildwithbuildpiper #kafka #flink #datastreaming #podcast…](https://www.linkedin.com/posts/rajacsp_codeanddeploy-buildwithbuildpiper-kafka-activity-7296591681624121344-m_Zc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAh8m-QBlVNXzETVf_L6BwCJR0kZzlb4FfE)
@@ -641,7 +641,7 @@ Deepak Sood is a Senior AI, Data, and DevOps Architect with over 8 years of expe
 
 ## Podcast - Streamlining Cloud Migration Through Data Engineering
 
-[Podcast - Streamlining Cloud Migration Through Data Engineering](about-deepak-sood/projects/46-podcast-streamlining-cloud-migration-through-data-engineering.md)
+[Podcast - Streamlining Cloud Migration Through Data Engineering](about-raja-csp/projects/46-podcast-streamlining-cloud-migration-through-data-engineering.md)
 
 ## NIT Delhi - GenAI for Freshers (18 September 2024)
 
@@ -786,11 +786,11 @@ Topic: Empowering GenAI with RAG (Retrieval-Augmented Generation)
 
 https://yourstory.com/session/how-to-empower-a-platform-with-a-data-pipeline-at-
 
-https://www.slideshare.net/deepaksood566/how-to-empower-a-platform-with-a-data-pipeline-at-a-scale
+https://www.slideshare.net/rajacsp566/how-to-empower-a-platform-with-a-data-pipeline-at-a-scale
 
 ## Webinar on Career Guidance at SSTC (27 June 2020)
 
-https://www.slideshare.net/deepaksood566/computer-science-career-guidance
+https://www.slideshare.net/rajacsp566/computer-science-career-guidance
 
 ## Others
 

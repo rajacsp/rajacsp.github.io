@@ -97,7 +97,7 @@ query {
   }
 }
 mutation {
-  tokenAuth(username: "deepak", password: "deepaksood") {
+  tokenAuth(username: "csp", password: "rajacsp") {
     token
   }
 }

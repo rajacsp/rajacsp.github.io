@@ -177,7 +177,7 @@ spec:
                 - name: DEBUG
                     value: "True"
                 - name: DEBUG_EMAIL
-                    value: "deepak.sood@stashfin.com"
+                    value: "raja.csp@stashfin.com"
                 - name: DEBUG_PHONE
                     value: "9425592627"
                 - name: DEBUG_LIMIT

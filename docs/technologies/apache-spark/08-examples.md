@@ -49,9 +49,9 @@ spark = SparkSession \
     .config("spark.some.config.option", "some-value") \
     .getOrCreate()
 
-df = spark.read.csv("/Users/deepak/Repositories/Python-Competitive-Programming/Experiments/creditcard.csv", header=True, sep=",", inferSchema=True)
+df = spark.read.csv("/Users/csp/Repositories/Python-Competitive-Programming/Experiments/creditcard.csv", header=True, sep=",", inferSchema=True)
 
-df.write.parquet('/Users/deepak/Repositories/Python-Competitive-Programming/Experiments/output-parquet')
+df.write.parquet('/Users/csp/Repositories/Python-Competitive-Programming/Experiments/output-parquet')
 
 data.count(), len(data.columns)
 data.show(5)

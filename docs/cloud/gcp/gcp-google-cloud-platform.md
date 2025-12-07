@@ -345,9 +345,9 @@ gcloud config set compute/zone asia-south1-a
 
 gcloud iam service-accounts create [NAME]
 
-gcloud projects add-iam-policy-binding playground-209220 --member "serviceAccount:deepak-mac@playground-209220.iam.gserviceaccount.com" --role "roles/owner"
+gcloud projects add-iam-policy-binding playground-209220 --member "serviceAccount:csp-mac@playground-209220.iam.gserviceaccount.com" --role "roles/owner"
 
-gcloud iam service-accounts keys create deepak-cred.json --iam-account deepak-mac@playground-209220.iam.gserviceaccount.com
+gcloud iam service-accounts keys create csp-cred.json --iam-account csp-mac@playground-209220.iam.gserviceaccount.com
 
 gcloud container clusters list
 gcloud container clusters create <cluster_name>
@@ -363,7 +363,7 @@ gcloud sql users set-password postgres --host=% --instance postgres-instance --p
 
 gcloud compute addresses create endpoints-ip --region us-central1  #create a static ip
 
-gcloud compute ssh --project deepak-project-619 --zone us-east1-b root@instance-1
+gcloud compute ssh --project csp-project-619 --zone us-east1-b root@instance-1
 
 # cloud run
 gcloud run services list
