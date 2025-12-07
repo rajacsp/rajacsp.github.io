@@ -1,1 +1,50 @@
+GitHub Pages Deployment Fixes
+==============================
 
+## Issues Fixed:
+
+### 1. Missing Image References (Build Errors)
+- **Problem**: Two images were referenced but not found in the media folder
+  - `raja_csp_kong_in_action.jpg` in meetups-talks-sessions.md
+  - `Personality-CSP-image1.jpg` in personality.md
+
+- **Solution**: 
+  - Changed reference to existing file: `deepak_sood_kong_in_action.jpg`
+  - Fixed corrupted comment and used existing file: `Personality-image1.jpg`
+
+### 2. GitHub Actions Permission Error
+- **Problem**: GitHub Actions bot couldn't push to gh-pages branch (403 error)
+
+- **Solution**: 
+  - Added `permissions: contents: write` to workflow
+  - Updated to peaceiris/actions-gh-pages@v4
+  - Added proper user configuration for git commits
+
+### 3. Jekyll Build Error
+- **Problem**: GitHub Pages was trying to build the site with Jekyll instead of using pre-built Docusaurus files
+
+- **Solution**: 
+  - Created `.nojekyll` file in repository root
+  - Added step in workflow to create `.nojekyll` in build output
+  - This tells GitHub Pages to skip Jekyll processing
+
+## Files Modified:
+
+1. `.github/workflows/deploy.yml` - Updated deployment workflow
+2. `docs/about-raja-csp/meetups-talks-sessions.md` - Fixed image reference
+3. `docs/about-raja-csp/personality.md` - Fixed image reference
+4. `.nojekyll` - Created to disable Jekyll processing
+
+## Next Steps:
+
+1. Commit and push these changes to the main branch
+2. The GitHub Actions workflow will automatically trigger
+3. Verify deployment at: https://rajacsp.github.io
+
+## Additional Recommendations:
+
+1. Go to GitHub repository Settings → Actions → General
+2. Ensure "Workflow permissions" is set to "Read and write permissions"
+3. This provides an extra layer of permission for the workflow
+
+The build should now complete successfully and deploy to GitHub Pages!
