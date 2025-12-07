@@ -95,7 +95,7 @@ Example (Postgres/MySQL):
 
 ```sql
 BEGIN;
-INSERT INTO orders (id, customer, amount, status) VALUES (123, 'Deepak', 1000, 'CREATED');
+INSERT INTO orders (id, customer, amount, status) VALUES (123, 'CSP', 1000, 'CREATED');
 INSERT INTO outbox (event_id, type, payload, status) VALUES (uuid(), 'OrderCreated', '{"id":123,"amount":1000}', 'NEW');
 COMMIT;
 ```

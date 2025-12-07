@@ -1,6 +1,6 @@
 # Techie Talks Podcast - Architecting Data at Scale
 
-Hi Deepak,
+Hi CSP,
 
 Thank you for agreeing to join me on the show. Your deep experience in data engineering and scaling complex systems is a topic our audience will find incredibly valuable.
 
@@ -10,7 +10,7 @@ Looking forward to our conversation! - Kuldeep
 
 ## Part 1: The Data Engineer's Mindset (Approx. 8 mins)
 
-Kuldeep's Question: Welcome, Deepak! With over 8 years of experience, you've seen a lot. How would you describe the core role of a modern data engineer, and how has that role evolved over your career?
+Kuldeep's Question: Welcome, CSP! With over 8 years of experience, you've seen a lot. How would you describe the core role of a modern data engineer, and how has that role evolved over your career?
 
 **My Points:**
 

@@ -78,7 +78,7 @@ print(f'{now=:Y-%m-%d}')
 
 '{} {}'.format(1, 2)
 
-'Hello {}'.format('Deepak')
+'Hello {}'.format('CSP')
 ```
 
 https://pyformat.info

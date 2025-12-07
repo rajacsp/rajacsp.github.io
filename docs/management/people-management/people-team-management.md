@@ -1,6 +1,6 @@
 # People / Team Management
 
-I am available anytime, I can mentor, Any help you need you can always come to me. -- Deepak
+I am available anytime, I can mentor, Any help you need you can always come to me. -- CSP
 
 Praise for effort and not outcome
 

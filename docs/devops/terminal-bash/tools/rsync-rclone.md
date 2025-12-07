@@ -57,7 +57,7 @@ https://rclone.org
 ```bash
 b2 authorize-account
 b2 list-buckets
-b2 upload-file TimeMachineBackupDeepak Documents.zip Documents.zip
+b2 upload-file TimeMachineBackupCSP Documents.zip Documents.zip
 ```
 
 https://www.backblaze.com/b2/docs/quick_command_line.html

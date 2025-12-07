@@ -107,10 +107,10 @@
 - [GitHub - rajacsp/JavaScriptTicTacToe: JavaScript TicTacToe using MiniMax Algorithm](https://github.com/rajacsp/JavaScriptTicTacToe) [JS Tic Tac Toe - MiniMax](https://codepen.io/rajacsp/full/VymOjG) (Oct'17)
 - [GitHub - rajacsp/python-challenge: Solution to python challenge](https://github.com/rajacsp/python-challenge) (Aug'17 - Dec'21)
     - Solving Python Challenge that includes a lot of hard problem solving puzzles.
-- [Deepak Kumar Sood - Deepak Sood](https://rajacsp-e5c24.web.app/) [GitHub - rajacsp/website-old: My Old Portfolio Website - https://rajacsp-e5c24.web.app/](https://github.com/rajacsp/website-old) (Aug'17 - Aug'21)
+- [CSP Kumar Sood - Raja CSP](https://rajacsp-e5c24.web.app/) [GitHub - rajacsp/website-old: My Old Portfolio Website - https://rajacsp-e5c24.web.app/](https://github.com/rajacsp/website-old) (Aug'17 - Aug'21)
     - Created using Jekyll and hosted in GitHub Pages. Used minimal mistakes as my theme, used liquid templating language to write modifications and additions to build a blogging website
 - [GitHub - rajacsp/MyWebsite: My Website from scratch.](https://github.com/rajacsp/MyWebsite) (Apr'17)
-- [GitHub - rajacsp/Competitive-Programming: https://www.hackerrank.com/rajacsp, http://practice.geeksforgeeks.org/user-profile.php?user=Deepak%20Sood](https://github.com/rajacsp/Competitive-Programming) (July'17 - Present)
+- [GitHub - rajacsp/Competitive-Programming: https://www.hackerrank.com/rajacsp, http://practice.geeksforgeeks.org/user-profile.php?user=CSP%20Sood](https://github.com/rajacsp/Competitive-Programming) (July'17 - Present)
     - My repository where I maintain all the competitive programming questions that I have solved. It's a collection of problems from various sites like HackerRank, GeeksForGeeks, HackerEarth, CodeChef, LeetCode, and basic algorithms and data structure questions
 - [Others](about-raja-csp/projects/98-others.md)
 
@@ -135,7 +135,7 @@ https://github.com/rajacsp/VideoCutNTrim
 
 Used Open Data Kit (ODK) platform for creating, deployment, collection and analysis of large scale data from geographically and culturally distributed people using mobile devices.
 
-https://github.com/rajacsp/CapstoneProject-ODK/blob/master/Capstone_Report_Deepak_Sood.pdf
+https://github.com/rajacsp/CapstoneProject-ODK/blob/master/Capstone_Report_CSP_Sood.pdf
 
 ### User study framework. Guide: Dr. Pushpendra Singh, (Jun'16 - Oct'16) Team Size - 1
 

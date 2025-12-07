@@ -25,7 +25,7 @@ output - json
 
 # adding new profile
 aws configure --profile zen
-aws ec2 describe-instances --profile {{profile_name}}
+aws ec2 describe-instances --profile {% raw %}{{profile_name}}{% endraw %}
 # query to filter based on Hypervisor
 --query "Reservations[].Instances[?Hypervisor=='xen' && State.Name=='running'].[InstanceId,InstanceType,Placement.AvailabilityZone]"
 

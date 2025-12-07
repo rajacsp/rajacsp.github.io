@@ -4,14 +4,14 @@ Vaishnavi - Hi everyone, and welcome to Code & Deploy! I’m your host, Vaishnav
 
 Today’s episode takes us into the world of data streaming platforms. We’ll unravel concepts like stream processing, stream governance, and how tools like Kafka and Flink power real-time data solutions. And to guide us on this fascinating journey, we have two experts from OpsTree Solutions:
 
-- Deepak Sood - Senior AI, Data, and DevOps Architect, who designs cutting-edge data pipelines and architectures.
+- Raja CSP - Senior AI, Data, and DevOps Architect, who designs cutting-edge data pipelines and architectures.
 - Ramneek Kaur - A skilled Data Engineer specializing in real-time data applications.
 
-Deepak and Ramneek, welcome to Code & Deploy! Before we get into the nitty-gritty, could you share what drew you to the field of data streaming and real-time analytics?
+CSP and Ramneek, welcome to Code & Deploy! Before we get into the nitty-gritty, could you share what drew you to the field of data streaming and real-time analytics?
 
 ## Getting into data streaming and real-time analytics?
 
-Deepak
+CSP
 
 - What drew me to data streaming and real-time analytics is the sheer challenge and complexity of this field. The abundance of tools and technologies available, each with its own nuances and capabilities, makes selecting the right one for the right job both critical and fascinating.
 - I believe that "data has gravity"—it’s not easy to move or transform. Choosing the right data type and format at the outset is crucial because transforming petabytes of data later is a monumental challenge. This means that technological decisions made early in the process can have far-reaching implications.
@@ -24,9 +24,9 @@ Ramneek
 
 ## Setting the Stage - What is Stream Processing?
 
-Vaishnavi - Let’s start at the basics. Stream processing is a buzzword, but not everyone understands what it really is. Deepak, could you give us a beginner-friendly definition of what stream processing is and how it differs from traditional batch processing?
+Vaishnavi - Let’s start at the basics. Stream processing is a buzzword, but not everyone understands what it really is. CSP, could you give us a beginner-friendly definition of what stream processing is and how it differs from traditional batch processing?
 
-Deepak - Explains stream processing in simple terms, emphasizing real-time data and continuous computation.
+CSP - Explains stream processing in simple terms, emphasizing real-time data and continuous computation.
 
 - Stream processing is the method of continuously collecting, processing, and analyzing data in real time as it flows through a system. Unlike traditional batch processing, which works on large chunks of data at set intervals, stream processing operates on data as it’s generated — moment by moment.
 - This approach is particularly powerful for scenarios where immediate insights or actions are needed, such as fraud detection, real-time analytics, or monitoring systems. It emphasizes the ability to compute and react to data on the fly, ensuring businesses can stay agile and responsive to real-time events.
@@ -42,7 +42,7 @@ Ramneek - Provides an example.
 
 Vaishnavi - Building a data streaming platform sounds exciting, but it’s definitely not without challenges. What are some of the biggest hurdles teams face when setting up such systems?
 
-Deepak - Discusses technical challenges like scalability, data consistency, and latency.
+CSP - Discusses technical challenges like scalability, data consistency, and latency.
 
 - Building a data streaming platform is indeed exciting, but it comes with its share of challenges. One of the biggest hurdles is scalability—ensuring the platform can handle an ever-increasing volume of data without compromising performance. As data grows exponentially, the architecture must scale seamlessly to meet the demand.
 - Another critical challenge is maintaining data consistency. In a distributed system, ensuring that data remains accurate and synchronized across multiple nodes and services is no small feat. This becomes even more complex when dealing with diverse data sources and formats.
@@ -53,7 +53,7 @@ Vaishnavi - And Ramneek, from your experience, how do governance and maintaining
 
 Ramneek - Explains the importance of governance, schemas, and compliance in streaming platforms.
 
-- This is really a nice question, Vaishnavi! As Deepak has mentioned about the challenges , in terms of data streaming, governance, schemas, and compliance are key to maintaining the integrity and security of the data as it flows through the system.
+- This is really a nice question, Vaishnavi! As CSP has mentioned about the challenges , in terms of data streaming, governance, schemas, and compliance are key to maintaining the integrity and security of the data as it flows through the system.
 - Governance is about setting up rules and controls to ensure data is used properly and securely. For example, in a ride-hailing app like Uber, governance ensures that only authorized users or systems can access sensitive data, like user payment information. It also helps track where data comes from and how it’s used, which is crucial in case something goes wrong or for auditing purposes.
 - Schemas define the structure of the data—like the blueprint for a building. They ensure that the data is formatted consistently so all systems understand it the same way. For instance, a driver’s location data might be structured with specific fields like latitude, longitude, and timestamp. If the schema is consistent, the app can process and use the data accurately across different services, like matching riders with drivers or calculating the ETA.
 - Compliance ensures that the data is being handled according to legal regulations, like GDPR . For example, in the case of Uber, compliance would ensure that personal information, such as a rider’s payment details, is stored and processed in a way that meets privacy laws and keeps the data secure.
@@ -61,9 +61,9 @@ Ramneek - Explains the importance of governance, schemas, and compliance in stre
 
 ## Kafka and Flink: A Perfect Pair
 
-Vaishnavi - Let’s talk tools! Kafka and Flink are often mentioned together in data streaming discussions. Deepak, could you explain why Kafka is the go-to choice for stream ingestion and what makes it so effective?
+Vaishnavi - Let’s talk tools! Kafka and Flink are often mentioned together in data streaming discussions. CSP, could you explain why Kafka is the go-to choice for stream ingestion and what makes it so effective?
 
-Deepak - Explains Kafka’s role
+CSP - Explains Kafka’s role
 
 - Kafka has become the go-to choice for stream ingestion because of its ability to handle massive amounts of data with high throughput and low latency. It acts as a distributed event streaming platform that decouples producers and consumers, allowing data to flow seamlessly between systems.
 - What makes Kafka so effective is its durability and fault-tolerant architecture. It stores data persistently, enabling replayability, which is critical for debugging or reprocessing historical events. Kafka’s partitioning mechanism also ensures horizontal scalability, making it capable of handling millions of events per second.
@@ -75,13 +75,13 @@ Vaishnavi - Ramneek, Flink complements Kafka by enabling real-time data processi
 
 Ramneek - Highlights Flink’s event-time processing, fault tolerance, and APIs.
 
-- Absolutely, what Deepak has explained about Kafka is very true about its streaming and in very basic terms if I add, Flink is like the engine that takes the data streams ingested by Kafka and transforms them into actionable insights. One of Flink’s standout features is its ability to handle event-time processing, which ensures accurate results even if events arrive late or out of order. It’s also highly fault-tolerant, thanks to its state snapshotting and recovery mechanisms. Another big win is its rich APIs that cater to both developers who want to write low-level custom code and those who prefer higher-level abstractions for speed and simplicity. Together, Kafka and Flink form a powerful ecosystem for real-time applications.    Stream Governance- Why It Matters
+- Absolutely, what CSP has explained about Kafka is very true about its streaming and in very basic terms if I add, Flink is like the engine that takes the data streams ingested by Kafka and transforms them into actionable insights. One of Flink’s standout features is its ability to handle event-time processing, which ensures accurate results even if events arrive late or out of order. It’s also highly fault-tolerant, thanks to its state snapshotting and recovery mechanisms. Another big win is its rich APIs that cater to both developers who want to write low-level custom code and those who prefer higher-level abstractions for speed and simplicity. Together, Kafka and Flink form a powerful ecosystem for real-time applications.    Stream Governance- Why It Matters
 
 ## Stream Governance
 
-Vaishnavi - We often hear about stream governance, but it’s not a term everyone’s familiar with. Deepak, could you tell us, what is this really? Why is governance crucial in data streaming?
+Vaishnavi - We often hear about stream governance, but it’s not a term everyone’s familiar with. CSP, could you tell us, what is this really? Why is governance crucial in data streaming?
 
-Deepak - Explains governance, focusing on data lineage, access control, and schema management.
+CSP - Explains governance, focusing on data lineage, access control, and schema management.
 
 - Stream governance refers to the practices and frameworks that ensure data in streaming systems is managed, controlled, and used effectively. It involves key aspects like data lineage, access control, and schema management to maintain trust and reliability in data.
 - Data lineage helps track the origin, flow, and transformations of data, ensuring transparency and enabling teams to debug and audit processes efficiently. Access control is crucial for securing sensitive data, allowing only authorized users or systems to interact with specific streams.
@@ -98,7 +98,7 @@ Ramneek - Provides an anecdote, possibly involving compliance or data quality is
 
 Vaishnavi - Let’s take a moment to geek out! What’s a future or trend in data streaming that excites you the most right now?
 
-Deepak - Shares insights on AI in stream processing or serverless streaming tools.
+CSP - Shares insights on AI in stream processing or serverless streaming tools.
 
 - One of the most exciting trends in data streaming right now is the integration of AI with stream processing. AI models, especially when combined with streaming platforms, enable real-time anomaly detection, predictive analytics, and dynamic decision-making. This opens up possibilities like detecting fraud as it happens or personalizing user experiences on the fly.
 - Another fascinating development is the rise of serverless streaming tools. Platforms like AWS Kinesis and Confluent Cloud are making it easier to build scalable, real-time pipelines without the need to manage infrastructure. This lowers the barrier for adoption, enabling teams to focus on building value rather than maintaining systems.
@@ -112,13 +112,13 @@ Ramneek - Discusses advancement
 
 ## Recommendations
 
-Vaishnavi - Deepak and Ramneek, this has been a phenomenal discussion. To wrap things up, if someone wanted to start building a data streaming platform today, what’s the first step you’d recommend?
+Vaishnavi - CSP and Ramneek, this has been a phenomenal discussion. To wrap things up, if someone wanted to start building a data streaming platform today, what’s the first step you’d recommend?
 
-Deepak - Suggestions
+CSP - Suggestions
 
 - If you're a small startup, I’d recommend taking a step back and reassessing whether a data streaming solution is really necessary. Many startups fall into the trap of the "shiny object syndrome," adding streaming tools and technologies that aren’t essential, which only increases complexity. It’s important to first evaluate how much data you're dealing with and whether streaming is the right approach to meet your goals.
 - If you’ve decided streaming is the way to go, start simple. Set up a small proof of concept (PoC) using Kafka and Flink, and ideally, run it directly on the cloud with free credits. This allows you to test if streaming is the right fit for your use case without heavy investment. This will also help you validate whether your business and technical objectives are being fulfilled, ensuring you're not over-engineering the solution before scaling.
 
 Ramneek - Recommendations.
 
-- Start small and focus on understanding your use case.  Identify the key data sources, the type of insights or actions you want to derive, and your latency requirements. Once that’s clear, experiment with tools like Kafka and Flink using small datasets or simulations. Like Deepak and I work on projects where we need to make a decision to choose a tool for certain use case, so he has always guided me and often told me- "ramneek! Focus on why?"  so I would suggest to focus on the concept of "why" first rather than what tool u are using. There are excellent open-source resources and tutorials to help you get started. The key is to iteratively build, test, and refine your pipeline while keeping scalability and governance in mind for future growth. Vaishnavi - Thank you both for sharing your expertise and insights today. To our listeners, if you enjoyed this episode, make sure to subscribe and share it with your network. Let us know your thoughts in the comments and stay tuned for more tech deep dives. Until next time, keep exploring and keep building!
+- Start small and focus on understanding your use case.  Identify the key data sources, the type of insights or actions you want to derive, and your latency requirements. Once that’s clear, experiment with tools like Kafka and Flink using small datasets or simulations. Like CSP and I work on projects where we need to make a decision to choose a tool for certain use case, so he has always guided me and often told me- "ramneek! Focus on why?"  so I would suggest to focus on the concept of "why" first rather than what tool u are using. There are excellent open-source resources and tutorials to help you get started. The key is to iteratively build, test, and refine your pipeline while keeping scalability and governance in mind for future growth. Vaishnavi - Thank you both for sharing your expertise and insights today. To our listeners, if you enjoyed this episode, make sure to subscribe and share it with your network. Let us know your thoughts in the comments and stay tuned for more tech deep dives. Until next time, keep exploring and keep building!

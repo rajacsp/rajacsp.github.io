@@ -61,7 +61,7 @@
 
 ### Personalized Tutor / mentor
 
-- Start with greetings - Hi Deepak, How are you?
+- Start with greetings - Hi CSP, How are you?
 - Virtual AI
 - Language capability - English and all other languages
 - Tone and speed according to user's understanding

@@ -31,7 +31,7 @@
  class NamesTestCase(unittest.TestCase):
      def test_first_last(self):
          full_name = get_full_name('csp', 'sood')
-         self.assertEqual(full_name, 'Deepak Sood')
+         self.assertEqual(full_name, 'Raja CSP')
 
  # Testing a class is similar to testing a function, since we mostly test our methods
  class TestAccountant(unittest.TestCase):

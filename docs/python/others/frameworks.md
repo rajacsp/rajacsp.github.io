@@ -70,9 +70,9 @@ app()
 
 ```bash
 python test.py --help
-python test.py hello Deepak
-python test.py goodbye Deepak
-python test.py goodbye --formal Deepak
+python test.py hello CSP
+python test.py goodbye CSP
+python test.py goodbye --formal CSP
 ```
 
 https://typer.tiangolo.com

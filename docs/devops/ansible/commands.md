@@ -92,7 +92,7 @@ ansible-playbook timesync_dns.yml -i inventory/dominos --extra-vars "variable_ho
 ```yml
 install.yml
     -
-        hosts: {{ host }}
+        hosts: {% raw %}{{ host }}{% endraw %}
         gather_facts: no
         vars:
             ansible_ssh_user: pi

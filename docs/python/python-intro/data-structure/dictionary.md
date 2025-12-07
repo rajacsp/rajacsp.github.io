@@ -8,7 +8,7 @@ Use curly braces to define a dictionary. Use colons to connect keys and values, 
 
 Empty Dictionary - `{}`
 
-Dictionary - `{'Name': 'Deepak', 'Age':25}`
+Dictionary - `{'Name': 'CSP', 'Age':25}`
 
 ## Accessing Values in Dictionary
 

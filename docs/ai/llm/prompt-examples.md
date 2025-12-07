@@ -417,19 +417,19 @@ Constraints & Mindset
 
 <inputs>
 <writing_example_1>
-{{writing_example_1}}
+{% raw %}{{writing_example_1}}{% endraw %}
 </writing_example_1>
 
 <writing_example_2>
-{{writing_example_2}}
+{% raw %}{{writing_example_2}}{% endraw %}
 </writing_example_2>
 
 <writing_example_3>
-{{writing_example_3}}
+{% raw %}{{writing_example_3}}{% endraw %}
 </writing_example_3>
 
 <new_piece_to_create>
-{{new_piece_to_create}}
+{% raw %}{{new_piece_to_create}}{% endraw %}
 </new_piece_to_create>
 </inputs>
 ```

@@ -1,6 +1,6 @@
 # Papers & Publications
 
-Deepika Yadav, Pushpendra Singh, Kyle Montague, Vijay Kumar, Deepak Sood, Madeline Balaam, Drishti Sharma, Mona Duggal, Tom Bartindale, Delvin Varghese, and Patrick Olivier. 2017. Sangoshthi: Empowering Community Health Workers through Peer Learning in Rural India. In Proceedings of the 26th International Conference on World Wide Web (WWW '17). International World Wide Web Conferences Steering Committee, Republic and Canton of Geneva, Switzerland, 499-508. DOI: https://doi.org/10.1145/3038912.3052624
+Deepika Yadav, Pushpendra Singh, Kyle Montague, Vijay Kumar, Raja CSP, Madeline Balaam, Drishti Sharma, Mona Duggal, Tom Bartindale, Delvin Varghese, and Patrick Olivier. 2017. Sangoshthi: Empowering Community Health Workers through Peer Learning in Rural India. In Proceedings of the 26th International Conference on World Wide Web (WWW '17). International World Wide Web Conferences Steering Committee, Republic and Canton of Geneva, Switzerland, 499-508. DOI: https://doi.org/10.1145/3038912.3052624
 
 Publication Date - Apr 7, 2017
 
@@ -60,12 +60,12 @@ https://www.facebook.com/IIITDelhi/posts/2279503818733302 (Project was awarded 1
 
 ## Blogs Published
 
-- [Deepak Sood – Medium](https://medium.com/@rajacsp)
-- [Deploying Standalone JupyterLab on Kubernetes for Early Stage Startups | by Deepak Sood | Analytics Vidhya | Medium](https://medium.com/analytics-vidhya/deploying-standalone-jupyterlab-on-kubernetes-for-early-stage-startups-7a1468fae289)
-- [Categories of Databases — A Primer | by Deepak Sood | Analytics Vidhya | Medium](https://medium.com/analytics-vidhya/categories-of-databases-a-primer-9781a3b24285)
-- [Setting up Logging in Python and Flask Application the right way | by Deepak Sood | Analytics Vidhya | Medium](https://medium.com/analytics-vidhya/setting-up-logging-in-python-and-flask-application-the-right-way-e4489c759e8d)
-- [Getting started with AWS Glue. AWS Glue is a fully managed extract… | by Deepak Sood | Medium](https://medium.com/@rajacsp/getting-started-with-aws-glue-8b25e615844c)
-- [Things to know — Amazon Aurora DB | by Deepak Sood | Medium](https://medium.com/@rajacsp/things-to-know-amazon-aurora-db-b170ee067f06)
-- [An Introduction to Distributed Systems | by Deepak Sood | Medium](https://medium.com/@rajacsp/an-introduction-to-distributed-systems-70ef6fc18d92)
-- [Ultimate Kubernetes Infrastructure Monitoring — Metrics + Logs | by Deepak Sood | Deepak Sood | Medium](https://medium.com/rajacsp/ultimate-kubernetes-infrastructure-monitoring-metrics-logs-c7b871d797bd)
-- [A Resemblance between Human Learning and Machine Learning | by Deepak Sood | Medium](https://medium.com/@rajacsp/a-resemblance-between-human-learning-and-machine-learning-ec4552fe3fa0)
+- [Raja CSP – Medium](https://medium.com/@rajacsp)
+- [Deploying Standalone JupyterLab on Kubernetes for Early Stage Startups | by Raja CSP | Analytics Vidhya | Medium](https://medium.com/analytics-vidhya/deploying-standalone-jupyterlab-on-kubernetes-for-early-stage-startups-7a1468fae289)
+- [Categories of Databases — A Primer | by Raja CSP | Analytics Vidhya | Medium](https://medium.com/analytics-vidhya/categories-of-databases-a-primer-9781a3b24285)
+- [Setting up Logging in Python and Flask Application the right way | by Raja CSP | Analytics Vidhya | Medium](https://medium.com/analytics-vidhya/setting-up-logging-in-python-and-flask-application-the-right-way-e4489c759e8d)
+- [Getting started with AWS Glue. AWS Glue is a fully managed extract… | by Raja CSP | Medium](https://medium.com/@rajacsp/getting-started-with-aws-glue-8b25e615844c)
+- [Things to know — Amazon Aurora DB | by Raja CSP | Medium](https://medium.com/@rajacsp/things-to-know-amazon-aurora-db-b170ee067f06)
+- [An Introduction to Distributed Systems | by Raja CSP | Medium](https://medium.com/@rajacsp/an-introduction-to-distributed-systems-70ef6fc18d92)
+- [Ultimate Kubernetes Infrastructure Monitoring — Metrics + Logs | by Raja CSP | Raja CSP | Medium](https://medium.com/rajacsp/ultimate-kubernetes-infrastructure-monitoring-metrics-logs-c7b871d797bd)
+- [A Resemblance between Human Learning and Machine Learning | by Raja CSP | Medium](https://medium.com/@rajacsp/a-resemblance-between-human-learning-and-machine-learning-ec4552fe3fa0)

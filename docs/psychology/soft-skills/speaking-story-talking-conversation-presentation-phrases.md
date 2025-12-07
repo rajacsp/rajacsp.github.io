@@ -44,7 +44,7 @@ Always tell stories, most visual stories are the best, and simple
 
 [English Speeches](https://www.youtube.com/channel/UCLyr-hfWVCKHcZjV5fg3jbw)
 
-[Treasury Leadership Forum 2023 - Deepak Bagla - YouTube](https://www.youtube.com/watch?v=45PrXujlQCo&ab_channel=UdayKuckian)
+[Treasury Leadership Forum 2023 - CSP Bagla - YouTube](https://www.youtube.com/watch?v=45PrXujlQCo&ab_channel=UdayKuckian)
 
 ## Body Languages
 

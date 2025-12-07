@@ -1,4 +1,4 @@
-# About Deepak Sood
+# About Raja CSP
 
 - [Experience](about-raja-csp/experience.md)
 - [Projects](about-raja-csp/projects/readme.md)
@@ -20,4 +20,4 @@
 
 <!-- - [Portfolio Photos](https://drive.google.com/drive/folders/1dIKxnnaoqPTuCsv21NiiiI-2Kdo14y0Q?usp=sharing) -->
 
-<!-- ![Deepak Sood Portfolio Shot](../media/7.%20portfolio_shot_front_compressed.jpg) -->
+<!-- ![Raja CSP Portfolio Shot](../media/7.%20portfolio_shot_front_compressed.jpg) -->

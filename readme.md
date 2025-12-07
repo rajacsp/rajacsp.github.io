@@ -1,4 +1,4 @@
-# Deepak's Personal Wiki | Deep Notes
+# CSP's Personal Wiki | Deep Notes
 
 Deployed at - [https://rajacsp.github.io/](https://rajacsp.github.io/)
 
@@ -113,12 +113,12 @@ Eth: Ethereum MainNet - 0xC629700c063c9848c2D09e79248d39b997fAD48E
 
 BTC - bc1qfpm3x5qcr6su8ndq8afmw6u5hzdwpyauwkdcdf
 
-Paypal - [Deepak Sood | rajacsp](https://paypal.me/rajacsp?country.x=IN&locale.x=en_GB)
+Paypal - [Raja CSP | rajacsp](https://paypal.me/rajacsp?country.x=IN&locale.x=en_GB)
 
-Buy me a coffee - [Deepak Sood | rajacsp](https://www.buymeacoffee.com/rajacsp)
+Buy me a coffee - [Raja CSP | rajacsp](https://www.buymeacoffee.com/rajacsp)
 
-Github Sponsers - [Deepak Sood | rajacsp](https://github.com/sponsors/rajacsp)
+Github Sponsers - [Raja CSP | rajacsp](https://github.com/sponsors/rajacsp)
 
 ## Contact
 
-[Deepak Sood | LinkedIn](https://www.linkedin.com/in/rajacsp/)
+[Raja CSP | LinkedIn](https://www.linkedin.com/in/rajacsp/)

@@ -26,7 +26,7 @@ Vous me plaisez
 
 (I like you)
 
-Je m'appelle Deepak (I am called csp)
+Je m'appelle CSP (I am called csp)
 
 Bonjour (Hello)
 

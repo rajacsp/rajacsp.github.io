@@ -59,7 +59,7 @@ docker run --log-driver=awslogs --log-opt awslogs-region=us-west-2 --log-opt aws
 # Add this logging configuration to docker-compose for all services
 logging:
     options:
-        tag: "{{.Name}} {{.ImageName}}"
+        tag: "{% raw %}{{.Name}} {{.ImageName}}{% endraw %}"
 ```
 
 https://docs.docker.com/config/containers/logging/awslogs

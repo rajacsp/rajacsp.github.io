@@ -1,6 +1,6 @@
 {
   "short_name": "Deep Notes",
-  "name": "Deep Notes | Deepak's Personal Wiki",
+  "name": "Deep Notes | CSP's Personal Wiki",
   "icons": [
     {
       "src": "/img/icons-192.png",
@@ -19,7 +19,7 @@
   "background_color": "#7099bc",
   "display": "standalone",
   "scope": "/",
-  "description": "Deep Notes | Deepak's Personal Wiki",
+  "description": "Deep Notes | CSP's Personal Wiki",
   "screenshots": [
     {
       "src": "/img/screenshot1.jpg",

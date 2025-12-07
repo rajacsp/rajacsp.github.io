@@ -156,7 +156,7 @@ Yo comprendo - I understand
 
 Yo no comprendo espanol - I don't understand spanish
 
-Deepak, cuando estas ocupado - Deepak when are you busy
+CSP, cuando estas ocupado - CSP when are you busy
 
 El espanol es divertido - Spanish is fun
 
@@ -170,7 +170,7 @@ El baile es el viernes - The dance is on Friday
 
 Tu no trabajas hoy - You don't work today
 
-No, Deepak no trabaja el sabado - No, Deepak won't work on Saturday
+No, CSP no trabaja el sabado - No, CSP won't work on Saturday
 
 ## Schedule
 
@@ -276,7 +276,7 @@ Estas feliz? - Are you happy?
 
 Lo siento, estoy mal - I am sorry, I am unwell
 
-Me llamo Deepak - My name is Deepak
+Me llamo CSP - My name is CSP
 
 Es mi nombre - It is my name
 
@@ -284,7 +284,7 @@ De dónde eres? - Where are you from
 
 Como tu llamas - What is your name?
 
-Te llamas Deepak? - Is your name Deepak?
+Te llamas CSP? - Is your name CSP?
 
 Buenos dias, cómo te llamas - Good morning what is your name?
 
@@ -292,7 +292,7 @@ Senorita, cómo se llama usted? - Miss what is your name?
 
 Disculpe señor, está usted ocupado? - Excuse me sir, are you busy
 
-Deepak está muy ocupada - Deepak is too busy
+CSP está muy ocupada - CSP is too busy
 
 Si, estoy muy ocupado - Yes, I am very busy
 
@@ -472,7 +472,7 @@ No, you no necesito un boligrafo - No I don't need a pen
 
 Tú no quieres estudiar español - Don't you want to study Spanish
 
-El senor Deepak estudia espanol - Mr. Perez studies Spanish
+El senor CSP estudia espanol - Mr. Perez studies Spanish
 
 Yo trabajo en una fabrica - I work in a factory
 
@@ -526,7 +526,7 @@ Yo no vivo en Francia - I do not live in France
 
 El museo está cerrado - The museum is closed
 
-Necesitas dinero, Deepak? - Do you need money, Deepak
+Necesitas dinero, CSP? - Do you need money, CSP
 
 Señora, necesita usted un taxi? - Ma'am, do you need a taxi?
 

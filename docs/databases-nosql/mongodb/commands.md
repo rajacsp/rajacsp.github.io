@@ -108,7 +108,7 @@ show collections
 db.createCollection("customers")
 db.createCollection("mycol", { capped : true, autoIndexId : true, size :
 6142800, max : 10000 } )
-db.customers.insert({"first_name":"Deepak","last_name":"Sood"});
+db.customers.insert({"first_name":"CSP","last_name":"Sood"});
 db.COLLECTION_NAME.drop()
 
 db.COLLECTION_NAME.find()

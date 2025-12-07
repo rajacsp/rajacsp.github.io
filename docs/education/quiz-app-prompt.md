@@ -147,11 +147,11 @@ Wrapped as ADK tools for `LogoQuizAgent`.
 
 - `POST /join`
 
-    `{ "nickname": "Deepak" }`
+    `{ "nickname": "CSP" }`
 
     **Response**:
 
-    `{ "user_id": 1, "nickname": "Deepak", "score": 0 }`
+    `{ "user_id": 1, "nickname": "CSP", "score": 0 }`
 
 - `GET /question`
 
