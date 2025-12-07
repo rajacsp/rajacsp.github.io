@@ -8,6 +8,8 @@
 
 ![session details](../media/WhatsApp%20Image%202025-11-22%20at%2016.01.36_7da8c367.png)
 
+<!-- Note: If you have an image for Kong in Action, add it as raja_csp_kong_in_action.jpg -->
+
 [#gratitude #mentorship #build4hire #unsaidtalks #learningmindset \| Raja CSP](https://www.linkedin.com/feed/update/urn:li:activity:7402288996598669312/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAh8m-QBlVNXzETVf_L6BwCJR0kZzlb4FfE)
 
 ## Hackathon - GenAI - Powered Solution - Hack The Matrix - UnsaidTalks (21 Sept 2025)
@@ -451,7 +453,7 @@ Whether you’re a developer, architect, or tech enthusiast, this session offers
 
 Presentation - [Kong in Action](https://docs.google.com/presentation/d/1nVVmLVwAhyjERJafOMY-Tl6diNCMDeH6q3TpNdHak3I/edit?usp=sharing)
 
-![API Kong-Versations gateway to 2025](../media/raja_csp_kong_in_action.jpg)
+![API Kong-Versations gateway to 2025](../media/deepak_sood_kong_in_action.jpg)
 
 [See API Kong-Versations:Gateway to 2025 at CNCF New Delhi](https://community.cncf.io/events/details/cncf-new-delhi-presents-api-kong-versationsgateway-to-2025/)
 
