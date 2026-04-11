@@ -73,16 +73,23 @@
     {% endif %}
 
     {% if SOCIAL %}
-    {% set solid = ['at', 'envelope', 'mailbox', 'rss'] %}
+    {% set solid = ['at', 'envelope', 'mailbox', 'rss', 'substack'] %}
     {% set relme = ['at', 'envelope', 'mailbox', 'mastodon'] %}
     <ul class="social">
       {% for name, link in SOCIAL %}
       <li>
         <a class="sc-{{ name }}"
+            {% if name == 'substack' %}style="background-color:#ff6719"{% elif name == 'python' %}style="background-color:#ffd343"{% endif %}
            {% if name in relme %}rel="me"{% endif %}
            href="{{ link }}"
            target="_blank">
+          {% if name == 'substack' %}
+          <img class="social-icon-svg" src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/img/social/substack.svg" alt="Substack" />
+          {% elif name == 'python' %}
+          <img class="social-icon-svg" src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/img/social/python.svg" alt="Python" />
+          {% else %}
           <i class="{% if name in solid %}fa-solid{% else %}fa-brands{% endif %} fa-{{ name }}"></i>
+          {% endif %}
         </a>
       </li>
       {% endfor %}

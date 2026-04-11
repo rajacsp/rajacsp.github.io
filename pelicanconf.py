@@ -40,8 +40,8 @@ DISPLAY_PAGES_ON_MENU = True
 SOCIAL = (
     ("github", "https://github.com/rajacsp"),
     ("linkedin", "https://www.linkedin.com/in/raja-csp-raman/"),
-    ("blog", "https://articlevil.substack.com/"),
-    ("newspaper", "https://rajacsp.github.io/mlnotes/"),
+    ("substack", "https://articlevil.substack.com/"),
+    ("python", "https://rajacsp.github.io/mlnotes/"),
 )
 
 DEFAULT_PAGINATION = 10
