@@ -6,7 +6,7 @@ Slug: ai-agent-directory-few-shots-llm-models
 
 The AI agent ecosystem is growing fast. Here's a quick directory of notable AI startups and a couple of few-shot LLM models worth knowing about. Two lines each — just enough to know what they do and why they matter.
 
-## AI Agent Directory (Test)
+## AI Agent Directory
 
 **Can of Soup** — An AI-powered app that lets you create fictional photos of you and your friends in imaginary scenarios. Built during Y Combinator, it uses generative AI to place people into any meme, outfit, or movie scene.
 

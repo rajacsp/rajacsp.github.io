@@ -1,2 +1,2 @@
-pelican[markdown]
-markdown
+pelican[markdown]==4.11.0.post0
+markdown==3.10.2
