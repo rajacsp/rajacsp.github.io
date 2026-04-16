@@ -1,6 +1,6 @@
 Title: AgentLegatus — Terraform for AI Agents
 Date: 2026-04-15
-Category: Engineering, Agents
+Category: Agents
 Tags: agentlegatus, multi-agent, llm, open-source, orchestration, python, langgraph, vendor-agnostic
 Slug: agentlegatus-terraform-for-ai-agents
 
