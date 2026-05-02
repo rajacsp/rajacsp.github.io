@@ -21,10 +21,10 @@ Education is the greatest weapon of all time, and I got mine with the help of Ka
 Thanks to Kalaignar and his education policies — they changed everything.
 
 
-![1777688401426](image/2026-05-02-how-tamilnadu-govt-paved-my-computer-dream/1777688401426.png)
+![1777688401426]({static}/image/2026-05-02-how-tamilnadu-govt-paved-my-computer-dream/1777688401426.png)
 
-![1777688427427](image/2026-05-02-how-tamilnadu-govt-paved-my-computer-dream/1777688427427.png)
+![1777688427427]({static}/image/2026-05-02-how-tamilnadu-govt-paved-my-computer-dream/1777688427427.png)
 
-![1777688438422](image/2026-05-02-how-tamilnadu-govt-paved-my-computer-dream/1777688438422.png)
+![1777688438422]({static}/image/2026-05-02-how-tamilnadu-govt-paved-my-computer-dream/1777688438422.png)
 
-![1777688454849](image/2026-05-02-how-tamilnadu-govt-paved-my-computer-dream/1777688454849.png)
+![1777688454849]({static}/image/2026-05-02-how-tamilnadu-govt-paved-my-computer-dream/1777688454849.png)
