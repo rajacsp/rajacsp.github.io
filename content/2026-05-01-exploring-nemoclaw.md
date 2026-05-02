@@ -3,7 +3,6 @@ Date: 2026-05-01
 Category: GenAI
 Tags: GenAI, LLM, NVIDIA, NemoClaw, Ollama, Docker
 Slug: exploring-nemoclaw
-Status: draft
 
 NemoClaw is NVIDIA's agent sandbox that lets you run AI assistants locally using your own inference backend — Ollama, llama.cpp, or cloud providers. It bundles OpenShell as a gateway and OpenClaw as the agent runtime, all orchestrated through Docker containers.
 
