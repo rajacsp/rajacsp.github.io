@@ -1,10 +1,8 @@
-Title: 100 Real GenAI Engineer Interview Questions (2025–2026)
+Title: 100 Real GenAI Engineer Interview Questions
 Date: 2026-06-03
 Category: GenAI
 Tags: genai, interview, llm, rag, agents, mlops, compliance
 Slug: 100-real-genai-engineer-interview-questions
-
-These are questions reported as actually asked in applied GenAI / LLM engineering interviews over 2025–2026, drawn from practitioner write-ups and curated industry sources. The emphasis has shifted from "what is a transformer" toward building, securing, scaling, and governing GenAI systems in production.
 
 ## Training & Adaptation Strategy
 
