@@ -3,6 +3,7 @@ Date: 2026-07-28
 Category: Founder Stories
 Tags: Zuckerberg, Facebook, Startups, Tech History
 Slug: mark-zuckerberg-success-story
+Cover: image/2026-07-28-mark/young-mark.png
 Status: Published
 
 Mark Zuckerberg went from building a home messaging app at age 12 to running the world's largest social network. This is the story of how a self-taught programming prodigy turned a dorm-room project into a platform used by billions — and the controversies he weathered along the way.
