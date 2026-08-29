@@ -107,8 +107,8 @@ the HF safetensors.
 
     pip install -r requirements.txt
 
-    python main.py 
-        --model black-forest-labs/FLUX.1-dev 
+    python main.py
+        --model black-forest-labs/FLUX.1-dev
         --prompt "A majestic lion at golden hour"
 
 **Python API**
