@@ -33,5 +33,5 @@ FreeToken is 100% open source.
 
 Links:
 
-- Paper: https://arxiv.org/pdf/2608.16157
-- Repo: https://github.com/FlashML-org/FreeToken
+- Paper: [https://arxiv.org/pdf/2608.16157](https://arxiv.org/pdf/2608.16157)
+- Repo: [https://github.com/FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken)
