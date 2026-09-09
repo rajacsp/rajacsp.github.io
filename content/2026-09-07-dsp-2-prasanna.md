@@ -1,4 +1,4 @@
-Title: DSP #2 — Celebrating P.G.Prasanna
+Title: Found our second diamond via our DSP: Prasanna
 Date: 2026-09-08
 Category: Community
 Tags: DSP, Kactii, Community Support, MacBook
@@ -7,7 +7,6 @@ Status: Published
 Cover: image/2026-09-07-dsp-2-pg-prasanna/1788926638075.png
 
 The Diamond Sourcing Program (DSP) is a community support initiative personally funded by Raja CSP Raman via Kactii. Through our DSP, we find fresh diamonds — people whose efforts and dreams deserve recognition, but who may not yet have the tools to fully chase them. As a gesture of appreciation, we offer an old MacBook to support them on their journey. This is not a grant, a scholarship, or a contract — it is simply a community gesture, given with no strings attached. Full details live at [https://wiki.kactii.com/dsp.html](https://wiki.kactii.com/dsp.html).
-
 
 ![1788926638075](image/2026-09-07-dsp-2-pg-prasanna/1788926638075.png)
 
