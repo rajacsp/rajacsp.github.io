@@ -2,7 +2,7 @@ Title: Found our second diamond via our DSP: Prasanna
 Date: 2026-09-08
 Category: Community
 Tags: DSP, Kactii, Community Support, MacBook
-Slug: dsp-2-pg-prasanna
+Slug: dsp-2-prasanna
 Status: Published
 Cover: image/2026-09-07-dsp-2-pg-prasanna/1788926638075.png
 
