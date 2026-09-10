@@ -4,6 +4,9 @@ Category: Personal
 Tags: resilience, career, learning, life-lessons
 Slug: my-darkest-and-challenging-days-in-india
 Status: Published
+Cover: image/2026-06-29-my-darkest-and-challenging-days-in-india/1789005143407-opt.jpg
+
+![1789005143407](image/2026-06-29-my-darkest-and-challenging-days-in-india/1789005143407.png)
 
 Everyone has their dark days. Here are the toughest situations I went through — the ones that shaped my life and taught me to face any challenge that comes my way.
 
