@@ -50,6 +50,6 @@ pelicanconf.py    # Development config
 publishconf.py    # Production config
 ```
 
-
 ## Screenshots
+
 ![1775872959937](image/README/1775872959937.png)
