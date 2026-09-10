@@ -4,6 +4,9 @@ Category: Society
 Tags: Radhakrishnan, Casteism, Teachers Day, Social Reform, Hinduism
 Slug: radhakrishnan-casteism-teachers-day
 Status: Published
+Cover: image/2026-09-05-Indias-teachers-day-and-casteism/1789004378381-opt.jpg
+
+![1789004378381](image/2026-09-05-Indias-teachers-day-and-casteism/1789004378381.png)
 
 September 5th is Teachers' Day, marking the birthday of Dr. Sarvepalli Radhakrishnan — philosopher, statesman, and India's second President. He once described casteism as a cancer afflicting India. In that spirit, this piece revisits his views on the subject and asks that we treat Teachers' Day as an occasion to confront India's foremost social ailment.
 

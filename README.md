@@ -26,6 +26,15 @@ make publish
 
 Generates the site using `publishconf.py` into the `output/` directory.
 
+## Shortcuts / Aliases
+
+Add these to your shell config (`~/.zshrc`) for convenience:
+
+```bash
+alias mds="make devserver"   # start the local dev server
+alias mp="make publish"      # build for production
+```
+
 ## Deployment
 
 Pushes to `main` automatically trigger a GitHub Actions workflow that builds and deploys the site to GitHub Pages.
