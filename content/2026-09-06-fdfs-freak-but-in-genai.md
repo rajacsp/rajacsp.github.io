@@ -4,6 +4,9 @@ Category: Personal
 Tags: GenAI, Engineering, Open Source, Inference, Builder, Author, Research
 Slug: fdfs-freak-but-in-genai
 Status: Published
+Cover: image/2026-09-06-fdfs-freak-but-in-genai/1789004953502-opt.jpg
+
+![1789004953502](image/2026-09-06-fdfs-freak-but-in-genai/1789004953502.png)
 
 I'm not showing off. This is just what I am.
 
