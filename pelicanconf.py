@@ -40,6 +40,7 @@ DISPLAY_PAGES_ON_MENU = True
 MAIN_MENU = False
 MENUITEMS = (
     ('Archives', '/archives.html'),
+    ('Categories', '/categories.html'),
 )
 
 # Social widget
