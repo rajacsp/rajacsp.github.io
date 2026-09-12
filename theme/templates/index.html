@@ -2,6 +2,9 @@
 
 {% block content %}
 
+<div class="index-layout">
+<div class="index-main">
+
 {% if GOOGLE_ADSENSE and GOOGLE_ADSENSE.ads.index_top %}
   <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
   <ins class="adsbygoogle ads-responsive"
@@ -68,4 +71,14 @@
   </script>
 {% endif %}
 
+</div>{# /index-main #}
+
+{% include "partial/archive_widget.html" %}
+
+</div>{# /index-layout #}
+
+{% endblock %}
+
+{% block additional_js %}
+{% include "partial/archive_widget_css.html" %}
 {% endblock %}

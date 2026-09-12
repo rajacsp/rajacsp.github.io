@@ -1,0 +1,30 @@
+<aside class="index-archive" aria-label="{{ _('Archives') }}">
+  <h3 class="index-archive-title">{{ _('Archives') }}</h3>
+  <div class="archive-tree">
+    {% for year, year_articles in articles | groupby('date.year') | reverse %}
+    <details class="archive-year"{% if loop.first %} open{% endif %}>
+      <summary>
+        <span class="archive-label">{{ year }}</span>
+        <span class="archive-count">{{ year_articles | length }}</span>
+      </summary>
+
+      {% for month, month_articles in year_articles | groupby('date.month') | reverse %}
+      <details class="archive-month">
+        <summary>
+          <span class="archive-label">{{ month_articles[0].date.strftime('%B') }}</span>
+          <span class="archive-count">{{ month_articles | length }}</span>
+        </summary>
+        <ul class="archive-posts">
+          {% for article in month_articles %}
+          <li>
+            <span class="archive-day">{{ article.date.strftime('%d') }}</span>
+            <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
+          </li>
+          {% endfor %}
+        </ul>
+      </details>
+      {% endfor %}
+    </details>
+    {% endfor %}
+  </div>
+</aside>

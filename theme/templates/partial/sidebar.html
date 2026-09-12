@@ -95,6 +95,17 @@
       {% endfor %}
     </ul>
     {% endif %}
+
+    <nav class="sidebar-menu">
+      <ul class="list">
+        <li><a href="{{ SITEURL }}/">{{ _('Home') }}</a></li>
+        {% if MENUITEMS %}
+          {% for title, link in MENUITEMS %}
+          <li><a href="{{ link }}">{{ _(title) }}</a></li>
+          {% endfor %}
+        {% endif %}
+      </ul>
+    </nav>
   </div>
 
   {% if GOOGLE_ADSENSE and GOOGLE_ADSENSE.ads.aside %}

@@ -36,6 +36,12 @@ AUTHOR_FEED_RSS = None
 # Pages
 DISPLAY_PAGES_ON_MENU = True
 
+# Menu links (rendered in the left sidebar, not the top nav)
+MAIN_MENU = False
+MENUITEMS = (
+    ('Archives', '/archives.html'),
+)
+
 # Social widget
 SOCIAL = (
     ("github", "https://github.com/rajacsp"),
