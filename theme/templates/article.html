@@ -18,6 +18,8 @@
 {% block title %} &ndash; {{ article.title|striptags|escape }}{% endblock %}
 
 {% block content %}
+<div class="index-layout">
+<div class="index-main">
 <article class="single">
   <header>
     {% if not ARTICLE_HIDE_TRANSLATION %}
@@ -124,4 +126,13 @@
   {% include "partial/disqus.html" %}
   {% include "partial/isso.html" %}
 </article>
+</div>{# /index-main #}
+
+{% include "partial/archive_widget.html" %}
+
+</div>{# /index-layout #}
+{% endblock %}
+
+{% block additional_js %}
+{% include "partial/archive_widget_css.html" %}
 {% endblock %}

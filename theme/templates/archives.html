@@ -7,21 +7,137 @@
   <header>
     <h1 id="archives">{{ _('Archives') }}</h1>
   </header>
-  <div>
-    <dl>
-      {% set previous_date = False %}
 
-      {% for article in dates %}
-        {% if article.locale_date != previous_date %}
-          {% set previous_date = article.locale_date %}
-          <dt>{{ article.locale_date }}</dt>
-        {% endif %}
+  <div class="archive-tree">
+    {% set ns = namespace(count=dates|length) %}
+    <div class="archive-controls">
+      <span class="archive-total">{{ ns.count }} {{ _('posts') }}</span>
+      <span class="archive-actions">
+        <button type="button" class="archive-toggle-all" data-action="expand">{{ _('Expand all') }}</button>
+        <button type="button" class="archive-toggle-all" data-action="collapse">{{ _('Collapse all') }}</button>
+      </span>
+    </div>
 
-        <dd>
-          <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
-        </dd>
+    {% for year, year_articles in dates | groupby('date.year') | reverse %}
+    <details class="archive-year" open>
+      <summary>
+        <span class="archive-label">{{ year }}</span>
+        <span class="archive-count">{{ year_articles | length }}</span>
+      </summary>
+
+      {% for month, month_articles in year_articles | groupby('date.month') | reverse %}
+      <details class="archive-month">
+        <summary>
+          <span class="archive-label">{{ month_articles[0].date.strftime('%B') }}</span>
+          <span class="archive-count">{{ month_articles | length }}</span>
+        </summary>
+
+        <ul class="archive-posts">
+          {% for article in month_articles %}
+          <li>
+            <span class="archive-day">{{ article.date.strftime('%d') }}</span>
+            <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
+          </li>
+          {% endfor %}
+        </ul>
+      </details>
       {% endfor %}
-    </dl>
+    </details>
+    {% endfor %}
   </div>
 </article>
+{% endblock %}
+
+{% block additional_js %}
+<style>
+  .archive-tree { margin-top: 1rem; }
+  .archive-controls {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+  .archive-total { font-size: 0.9rem; opacity: 0.7; }
+  .archive-actions { display: flex; gap: 0.5rem; }
+  .archive-toggle-all {
+    background: none;
+    border: 1px solid currentColor;
+    border-radius: 4px;
+    padding: 0.2rem 0.6rem;
+    font-size: 0.8rem;
+    cursor: pointer;
+    color: inherit;
+    opacity: 0.7;
+  }
+  .archive-toggle-all:hover { opacity: 1; }
+
+  details.archive-year { margin-bottom: 0.5rem; }
+  details.archive-year > summary {
+    font-size: 1.2rem;
+    font-weight: 700;
+    padding: 0.5rem 0;
+  }
+  details.archive-month { margin: 0.2rem 0 0.2rem 1.25rem; }
+  details.archive-month > summary {
+    font-size: 1rem;
+    font-weight: 600;
+    padding: 0.35rem 0;
+    opacity: 0.9;
+  }
+
+  .archive-tree summary {
+    cursor: pointer;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+  .archive-tree summary::-webkit-details-marker { display: none; }
+  .archive-tree summary::before {
+    content: "\25B6";
+    font-size: 0.7em;
+    transition: transform 0.15s ease;
+    opacity: 0.6;
+  }
+  .archive-tree details[open] > summary::before { transform: rotate(90deg); }
+
+  .archive-count {
+    font-size: 0.7em;
+    font-weight: 400;
+    opacity: 0.6;
+    border: 1px solid currentColor;
+    border-radius: 10px;
+    padding: 0 0.5em;
+  }
+
+  ul.archive-posts {
+    list-style: none;
+    margin: 0.25rem 0 0.5rem 2.5rem;
+    padding: 0;
+  }
+  ul.archive-posts li {
+    display: flex;
+    align-items: baseline;
+    gap: 0.6rem;
+    padding: 0.15rem 0;
+  }
+  ul.archive-posts .archive-day {
+    font-variant-numeric: tabular-nums;
+    font-size: 0.8rem;
+    opacity: 0.5;
+    min-width: 1.5rem;
+  }
+</style>
+<script>
+  document.querySelectorAll('.archive-toggle-all').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var open = btn.dataset.action === 'expand';
+      document.querySelectorAll('.archive-tree details').forEach(function (d) {
+        d.open = open;
+      });
+    });
+  });
+</script>
 {% endblock %}

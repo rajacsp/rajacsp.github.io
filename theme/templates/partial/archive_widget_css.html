@@ -1,0 +1,74 @@
+<style>
+  .index-layout { display: flex; gap: 2rem; align-items: flex-start; }
+  .index-main { flex: 1 1 auto; min-width: 0; }
+  .index-archive {
+    flex: 0 0 340px;
+    position: sticky;
+    top: 1.5rem;
+    font-size: 0.9rem;
+    background: transparent;
+    color: inherit;
+    text-align: left;
+  }
+  .index-archive-title {
+    margin: 0 0 0.75rem;
+    padding-bottom: 0.4rem;
+    border-bottom: 1px solid currentColor;
+    opacity: 0.85;
+  }
+
+
+  /* Hide the right widget on narrower screens; the Archives page still exists. */
+  @media (max-width: 1100px) {
+    .index-archive { display: none; }
+    .index-layout { display: block; }
+  }
+
+  .archive-tree details.archive-year { margin-bottom: 0.25rem; }
+  .archive-tree details.archive-year > summary { font-weight: 700; padding: 0.3rem 0; }
+  .archive-tree details.archive-month { margin: 0.1rem 0 0.1rem 1rem; }
+  .archive-tree details.archive-month > summary { font-weight: 600; padding: 0.25rem 0; opacity: 0.9; }
+
+  .archive-tree summary {
+    cursor: pointer;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+  }
+  .archive-tree summary::-webkit-details-marker { display: none; }
+  .archive-tree summary::before {
+    content: "\25B6";
+    font-size: 0.65em;
+    transition: transform 0.15s ease;
+    opacity: 0.55;
+  }
+  .archive-tree details[open] > summary::before { transform: rotate(90deg); }
+
+  .archive-tree .archive-count {
+    font-size: 0.7em;
+    font-weight: 400;
+    opacity: 0.6;
+    border: 1px solid currentColor;
+    border-radius: 10px;
+    padding: 0 0.5em;
+  }
+
+  .archive-tree ul.archive-posts {
+    list-style: none;
+    margin: 0.2rem 0 0.4rem 1.9rem;
+    padding: 0;
+  }
+  .archive-tree ul.archive-posts li {
+    display: flex;
+    align-items: baseline;
+    gap: 0.5rem;
+    padding: 0.1rem 0;
+  }
+  .archive-tree ul.archive-posts .archive-day {
+    font-variant-numeric: tabular-nums;
+    font-size: 0.75rem;
+    opacity: 0.5;
+    min-width: 1.3rem;
+  }
+</style>

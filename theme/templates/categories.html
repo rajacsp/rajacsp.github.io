@@ -7,14 +7,48 @@
   <header>
     <h1 id="categories">{{ _('Categories') }}</h1>
   </header>
-  <div>
-    <ul class="list">
-      {% for category, articles in categories|sort %}
+  <div class="category-listing">
+    {# Build (count, name, url) tuples so we can sort by post count, descending #}
+    {% set rows = [] %}
+    {% for category, articles in categories %}
+      {% set _ = rows.append((articles|count, category.name, category.url)) %}
+    {% endfor %}
+    <ul class="category-list">
+      {% for count, name, url in rows|sort(attribute='0', reverse=True) %}
       <li>
-        <a href="{{ SITEURL }}/{{ category.url }}">{{ category }}</a> ({{ articles|count }})
+        <a href="{{ SITEURL }}/{{ url }}">{{ name }}</a>
+        <span class="category-count">{{ count }}</span>
       </li>
       {% endfor %}
     </ul>
   </div>
 </article>
+{% endblock %}
+
+{% block additional_js %}
+<style>
+  .category-listing { margin-top: 1rem; }
+  ul.category-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    max-width: 480px;
+  }
+  ul.category-list li {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 0.75rem;
+    padding: 0.5rem 0;
+    border-bottom: 1px solid currentColor;
+  }
+  ul.category-list li a { font-weight: 600; }
+  .category-count {
+    font-size: 0.8rem;
+    opacity: 0.6;
+    border: 1px solid currentColor;
+    border-radius: 10px;
+    padding: 0 0.6em;
+  }
+</style>
 {% endblock %}
