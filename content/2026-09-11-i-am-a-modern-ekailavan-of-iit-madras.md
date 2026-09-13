@@ -4,6 +4,9 @@ Category: Career
 Tags: IIT, GenAI, Self-Taught, Mentorship, Linux, Autodidacticism, Autodidact
 Slug: i-am-a-modern-ekailavan-of-iit-madras
 Status: Published
+Cover: image/2026-09-11-i-am-a-modern-ekailavan-of-iit-madras/1789261480725-opt.jpg
+
+![1789261480725](image/2026-09-11-i-am-a-modern-ekailavan-of-iit-madras/1789261480725.png)
 
 They call me Ekalaivan of IIT.
 
