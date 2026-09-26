@@ -4,6 +4,9 @@ Category: Faith & Community
 Tags: Believers Circle, Christian Fellowship, Casteless Fellowship, Prayer, Faith and Science, Society Impact
 Slug: believers-circle
 Status: Published
+Cover: image/2026-09-26-believers-circle/1790393920365-opt.jpg
+
+![1790393920365](image/2026-09-26-believers-circle/1790393920365.png)
 
 Every movement begins with a conviction that will not stay quiet. For me, that conviction arrived as a calling: to gather believers into a fellowship where Jesus stands at the center, where caste has no place at the table, and where faith shapes not only how we pray but how we heal, build, govern, and create. That fellowship is Believers' Circle, or BC.
 
