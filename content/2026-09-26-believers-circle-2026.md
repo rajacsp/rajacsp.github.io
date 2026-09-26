@@ -2,7 +2,7 @@ Title: Believers' Circle: Faith at the Center, Impact Everywhere
 Date: 2026-09-26
 Category: Faith & Community
 Tags: Believers Circle, Christian Fellowship, Casteless Fellowship, Prayer, Faith and Science, Society Impact
-Slug: believers-circle
+Slug: believers-circle-2026
 Status: Published
 Cover: image/2026-09-26-believers-circle/1790393920365-opt.jpg
 
