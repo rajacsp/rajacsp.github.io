@@ -139,3 +139,5 @@ far too weak — an RTX 3050 running full-precision FLUX and Qwen-Image.
 Time. Generation runs into minutes for the biggest models. The trade is memory
 for wall-clock, and it only holds on a fast local SSD with diffusion-style
 models. Inside that envelope, it's a genuinely clever piece of engineering.
+
+---
